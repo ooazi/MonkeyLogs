@@ -1,6 +1,8 @@
 # Hello and welcome to MonkeyLogs! 🎉
 
 MonkeyLogs is a lightweight typing stats tracker and client that runs passively on your computer. It tracks basic stats, and aggregates them into a simple localhost web client for easy access to the unseen part of your day-to-day keyboard sessions. ⌨️
+![Interface Image 1](assets/interface1.png)
+![Interface Image 2](assets/interface2.png)
 
 ## Foreword ✍️
 
