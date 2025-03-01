@@ -1,7 +1,0 @@
-setup.py
-monkeylogs.egg-info/PKG-INFO
-monkeylogs.egg-info/SOURCES.txt
-monkeylogs.egg-info/dependency_links.txt
-monkeylogs.egg-info/entry_points.txt
-monkeylogs.egg-info/requires.txt
-monkeylogs.egg-info/top_level.txt
