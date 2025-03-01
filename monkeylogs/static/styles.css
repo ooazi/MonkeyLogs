@@ -1,0 +1,185 @@
+/* One Dark Theme + JetBrains Mono */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+body {
+    background-color: #282c34; /* One Dark Background */
+    color: #abb2bf; /* One Dark Foreground */
+    font-family: 'JetBrains Mono', monospace;
+    margin: 0;
+    padding: 0;
+    text-transform: lowercase; /* Ensures all text is lowercase */
+}
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #21252b;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 70px;
+    z-index: 1000;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Logo Container */
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Logo */
+.logo {
+    height: 50px;
+    width: auto;
+    margin-right: 15px;
+}
+
+/* Logo Text */
+.logo-text {
+    font-size: 24px;
+    font-weight: 700;
+    color: #e5c07b;
+    letter-spacing: 1px;
+    margin: 0;
+    text-transform: lowercase;
+}
+
+/* Header Stats Container */
+.header-stats {
+    display: flex;
+    gap: 15px; /* Space between mini stat containers */
+    padding-right: 30px; /* Moves stats away from the right edge */
+}
+
+/* Mini Stat Containers */
+.stat-box {
+    background-color: #2c313a;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 130px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Stat Title */
+.stat-title {
+    font-size: 12px;
+    color: #e06c75;
+    text-transform: lowercase;
+}
+
+/* Stat Value */
+.stat-value {
+    font-size: 18px;
+    font-weight: bold;
+    color: #61afef;
+    text-transform: lowercase;
+}
+
+/* Main container */
+.container {
+    max-width: 900px;
+    margin: 100px auto 20px; /* Adjusted to fit under header */
+    padding: 20px;
+    background-color: #2c313a;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Headers */
+h1, h2 {
+    color: #e5c07b;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #3e4451;
+    color: #e06c75;
+    text-transform: lowercase;
+}
+
+td {
+    background-color: #2c313a;
+    border-bottom: 1px solid #3e4451;
+    text-transform: lowercase;
+}
+
+/* Error Message */
+.error {
+    color: #e06c75;
+    text-align: center;
+    text-transform: lowercase;
+}
+/* Ensure graphs fit inside container */
+/* Ensure graphs fit inside container */
+.graph-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    width: 100%;
+}
+
+.graph-container img {
+    max-width: 100%;
+    width: 80%;  /* Adjust width for better fit */
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid #4b5263;
+    background-color: #282c34;
+    padding: 10px;
+}
+
+/* Ensure table is aligned below graphs */
+.container h2 {
+    margin-top: 30px;
+}
+
+/* Ensure header-stats have space */
+.header-stats {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+/* Show All Button */
+#show-all {
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #61afef;
+    color: #282c34;
+    border: none;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+#show-all:hover {
+    background-color: #528bff;
+}
+
+.hidden {
+    display: none;
+}

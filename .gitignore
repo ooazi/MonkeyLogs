@@ -1,0 +1,9 @@
+# Ignore all cache files
+**/*cache*
+**/*.cache
+**/*.tmp
+**/*.log
+**/*.pyc
+**/*.pyo
+**/*.swp 
+**/__pycache__/

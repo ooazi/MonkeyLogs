@@ -1,0 +1,2 @@
+[console_scripts]
+monkeylogs = monkeylogs.cli:main

@@ -1,0 +1,5464 @@
+{
+    "sessions": [
+        {
+            "timestamp": 1740773426,
+            "total_keystrokes": 30,
+            "wpm": 86.3,
+            "session_duration": 4.17,
+            "avg_keystroke_time": 0.144,
+            "most_used_keys": {
+                "e": 4,
+                " ": 3,
+                "n": 3,
+                "\u007f": 3,
+                "r": 2
+            }
+        },
+        {
+            "timestamp": 1740773433,
+            "total_keystrokes": 60,
+            "wpm": 67.14,
+            "session_duration": 10.72,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 12,
+                " ": 7,
+                "a": 5,
+                "w": 5,
+                "o": 5
+            }
+        },
+        {
+            "timestamp": 1740773437,
+            "total_keystrokes": 90,
+            "wpm": 75.21,
+            "session_duration": 14.36,
+            "avg_keystroke_time": 0.161,
+            "most_used_keys": {
+                "\u007f": 15,
+                " ": 12,
+                "a": 6,
+                "e": 6,
+                "w": 6
+            }
+        },
+        {
+            "timestamp": 1740773474,
+            "total_keystrokes": 120,
+            "wpm": 73.48,
+            "session_duration": 19.6,
+            "avg_keystroke_time": 0.169,
+            "most_used_keys": {
+                "\u007f": 24,
+                " ": 13,
+                "a": 12,
+                "y": 9,
+                "o": 8
+            }
+        },
+        {
+            "timestamp": 1740773486,
+            "total_keystrokes": 150,
+            "wpm": 56.09,
+            "session_duration": 32.09,
+            "avg_keystroke_time": 0.22,
+            "most_used_keys": {
+                "\u007f": 34,
+                "a": 14,
+                " ": 14,
+                "y": 11,
+                "o": 10
+            }
+        },
+        {
+            "timestamp": 1740773492,
+            "total_keystrokes": 180,
+            "wpm": 58.1,
+            "session_duration": 37.18,
+            "avg_keystroke_time": 0.211,
+            "most_used_keys": {
+                "\u007f": 37,
+                "a": 15,
+                " ": 15,
+                "o": 13,
+                "y": 13
+            }
+        },
+        {
+            "timestamp": 1740773532,
+            "total_keystrokes": 210,
+            "wpm": 56.69,
+            "session_duration": 44.45,
+            "avg_keystroke_time": 0.218,
+            "most_used_keys": {
+                "\u007f": 44,
+                "a": 18,
+                " ": 17,
+                "o": 14,
+                "y": 14
+            }
+        },
+        {
+            "timestamp": 1740773548,
+            "total_keystrokes": 240,
+            "wpm": 59.02,
+            "session_duration": 48.79,
+            "avg_keystroke_time": 0.21,
+            "most_used_keys": {
+                "\u007f": 49,
+                " ": 20,
+                "a": 19,
+                "o": 15,
+                "y": 15
+            }
+        },
+        {
+            "timestamp": 1740773551,
+            "total_keystrokes": 270,
+            "wpm": 62.77,
+            "session_duration": 51.62,
+            "avg_keystroke_time": 0.197,
+            "most_used_keys": {
+                "\u007f": 51,
+                " ": 26,
+                "a": 22,
+                "o": 17,
+                "y": 16
+            }
+        },
+        {
+            "timestamp": 1740773555,
+            "total_keystrokes": 300,
+            "wpm": 65.1,
+            "session_duration": 55.3,
+            "avg_keystroke_time": 0.189,
+            "most_used_keys": {
+                "\u007f": 59,
+                " ": 29,
+                "a": 22,
+                "o": 20,
+                "t": 18
+            }
+        },
+        {
+            "timestamp": 1740773558,
+            "total_keystrokes": 330,
+            "wpm": 68.07,
+            "session_duration": 58.17,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 59,
+                " ": 35,
+                "a": 22,
+                "o": 22,
+                "t": 22
+            }
+        },
+        {
+            "timestamp": 1740773571,
+            "total_keystrokes": 360,
+            "wpm": 70.72,
+            "session_duration": 61.09,
+            "avg_keystroke_time": 0.174,
+            "most_used_keys": {
+                "\u007f": 64,
+                " ": 38,
+                "a": 25,
+                "t": 24,
+                "o": 22
+            }
+        },
+        {
+            "timestamp": 1740773575,
+            "total_keystrokes": 390,
+            "wpm": 72.25,
+            "session_duration": 64.78,
+            "avg_keystroke_time": 0.17,
+            "most_used_keys": {
+                "\u007f": 65,
+                " ": 42,
+                "a": 30,
+                "t": 25,
+                "y": 24
+            }
+        },
+        {
+            "timestamp": 1740773578,
+            "total_keystrokes": 420,
+            "wpm": 74.13,
+            "session_duration": 67.99,
+            "avg_keystroke_time": 0.165,
+            "most_used_keys": {
+                "\u007f": 67,
+                " ": 48,
+                "a": 30,
+                "t": 28,
+                "y": 25
+            }
+        },
+        {
+            "timestamp": 1740773589,
+            "total_keystrokes": 450,
+            "wpm": 75.22,
+            "session_duration": 71.79,
+            "avg_keystroke_time": 0.163,
+            "most_used_keys": {
+                "\u007f": 68,
+                " ": 54,
+                "a": 32,
+                "t": 31,
+                "o": 30
+            }
+        },
+        {
+            "timestamp": 1740773592,
+            "total_keystrokes": 480,
+            "wpm": 76.39,
+            "session_duration": 75.4,
+            "avg_keystroke_time": 0.16,
+            "most_used_keys": {
+                "\u007f": 75,
+                " ": 59,
+                "a": 34,
+                "t": 32,
+                "o": 30
+            }
+        },
+        {
+            "timestamp": 1740773596,
+            "total_keystrokes": 510,
+            "wpm": 77.41,
+            "session_duration": 79.06,
+            "avg_keystroke_time": 0.158,
+            "most_used_keys": {
+                "\u007f": 75,
+                " ": 65,
+                "a": 36,
+                "t": 35,
+                "o": 32
+            }
+        },
+        {
+            "timestamp": 1740773663,
+            "total_keystrokes": 540,
+            "wpm": 76.99,
+            "session_duration": 84.17,
+            "avg_keystroke_time": 0.16,
+            "most_used_keys": {
+                "\u007f": 78,
+                " ": 68,
+                "t": 38,
+                "a": 36,
+                "o": 34
+            }
+        },
+        {
+            "timestamp": 1740773683,
+            "total_keystrokes": 570,
+            "wpm": 73.35,
+            "session_duration": 93.25,
+            "avg_keystroke_time": 0.168,
+            "most_used_keys": {
+                "\u007f": 85,
+                " ": 71,
+                "t": 38,
+                "a": 36,
+                "o": 36
+            }
+        },
+        {
+            "timestamp": 1740773736,
+            "total_keystrokes": 600,
+            "wpm": 71.46,
+            "session_duration": 100.75,
+            "avg_keystroke_time": 0.173,
+            "most_used_keys": {
+                "\u007f": 93,
+                " ": 72,
+                "o": 39,
+                "t": 39,
+                "a": 37
+            }
+        },
+        {
+            "timestamp": 1740773740,
+            "total_keystrokes": 630,
+            "wpm": 72.59,
+            "session_duration": 104.15,
+            "avg_keystroke_time": 0.17,
+            "most_used_keys": {
+                "\u007f": 99,
+                " ": 76,
+                "t": 44,
+                "a": 41,
+                "o": 40
+            }
+        },
+        {
+            "timestamp": 1740773762,
+            "total_keystrokes": 660,
+            "wpm": 73.74,
+            "session_duration": 107.41,
+            "avg_keystroke_time": 0.167,
+            "most_used_keys": {
+                "\u007f": 100,
+                " ": 79,
+                "t": 45,
+                "o": 44,
+                "a": 42
+            }
+        },
+        {
+            "timestamp": 1740773766,
+            "total_keystrokes": 690,
+            "wpm": 74.34,
+            "session_duration": 111.37,
+            "avg_keystroke_time": 0.166,
+            "most_used_keys": {
+                "\u007f": 104,
+                " ": 86,
+                "o": 48,
+                "t": 46,
+                "a": 44
+            }
+        },
+        {
+            "timestamp": 1740773829,
+            "total_keystrokes": 720,
+            "wpm": 73.68,
+            "session_duration": 117.27,
+            "avg_keystroke_time": 0.168,
+            "most_used_keys": {
+                "\u007f": 113,
+                " ": 88,
+                "o": 49,
+                "t": 46,
+                "a": 44
+            }
+        },
+        {
+            "timestamp": 1740773837,
+            "total_keystrokes": 750,
+            "wpm": 72.03,
+            "session_duration": 124.96,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 119,
+                " ": 93,
+                "o": 52,
+                "a": 46,
+                "t": 46
+            }
+        },
+        {
+            "timestamp": 1740773842,
+            "total_keystrokes": 780,
+            "wpm": 71.72,
+            "session_duration": 130.51,
+            "avg_keystroke_time": 0.172,
+            "most_used_keys": {
+                "\u007f": 132,
+                " ": 94,
+                "o": 52,
+                "a": 47,
+                "t": 46
+            }
+        },
+        {
+            "timestamp": 1740773860,
+            "total_keystrokes": 810,
+            "wpm": 71.65,
+            "session_duration": 135.66,
+            "avg_keystroke_time": 0.172,
+            "most_used_keys": {
+                "\u007f": 138,
+                " ": 96,
+                "o": 54,
+                "t": 48,
+                "a": 47
+            }
+        },
+        {
+            "timestamp": 1740773863,
+            "total_keystrokes": 840,
+            "wpm": 72.44,
+            "session_duration": 139.14,
+            "avg_keystroke_time": 0.17,
+            "most_used_keys": {
+                "\u007f": 141,
+                " ": 102,
+                "o": 54,
+                "a": 51,
+                "t": 51
+            }
+        },
+        {
+            "timestamp": 1740773867,
+            "total_keystrokes": 870,
+            "wpm": 73.1,
+            "session_duration": 142.82,
+            "avg_keystroke_time": 0.168,
+            "most_used_keys": {
+                "\u007f": 151,
+                " ": 105,
+                "o": 57,
+                "a": 55,
+                "t": 51
+            }
+        },
+        {
+            "timestamp": 1740773870,
+            "total_keystrokes": 900,
+            "wpm": 73.95,
+            "session_duration": 146.05,
+            "avg_keystroke_time": 0.166,
+            "most_used_keys": {
+                "\u007f": 152,
+                " ": 110,
+                "o": 59,
+                "a": 56,
+                "t": 53
+            }
+        },
+        {
+            "timestamp": 1740773874,
+            "total_keystrokes": 930,
+            "wpm": 74.45,
+            "session_duration": 149.89,
+            "avg_keystroke_time": 0.165,
+            "most_used_keys": {
+                "\u007f": 157,
+                " ": 112,
+                "o": 61,
+                "a": 59,
+                "t": 54
+            }
+        },
+        {
+            "timestamp": 1740773886,
+            "total_keystrokes": 960,
+            "wpm": 71.23,
+            "session_duration": 161.73,
+            "avg_keystroke_time": 0.172,
+            "most_used_keys": {
+                "\u007f": 166,
+                " ": 114,
+                "o": 61,
+                "a": 60,
+                "t": 57
+            }
+        },
+        {
+            "timestamp": 1740773902,
+            "total_keystrokes": 990,
+            "wpm": 66.75,
+            "session_duration": 177.99,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 175,
+                " ": 116,
+                "o": 64,
+                "a": 61,
+                "t": 59
+            }
+        },
+        {
+            "timestamp": 1740773905,
+            "total_keystrokes": 1020,
+            "wpm": 67.44,
+            "session_duration": 181.48,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 178,
+                " ": 122,
+                "o": 66,
+                "a": 63,
+                "t": 63
+            }
+        },
+        {
+            "timestamp": 1740773909,
+            "total_keystrokes": 1050,
+            "wpm": 68.09,
+            "session_duration": 185.04,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 191,
+                " ": 125,
+                "o": 69,
+                "t": 66,
+                "a": 63
+            }
+        },
+        {
+            "timestamp": 1740773913,
+            "total_keystrokes": 1080,
+            "wpm": 68.64,
+            "session_duration": 188.82,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 193,
+                " ": 129,
+                "o": 73,
+                "t": 68,
+                "a": 63
+            }
+        },
+        {
+            "timestamp": 1740773916,
+            "total_keystrokes": 1110,
+            "wpm": 69.26,
+            "session_duration": 192.31,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 193,
+                " ": 134,
+                "o": 74,
+                "t": 69,
+                "a": 65
+            }
+        },
+        {
+            "timestamp": 1740773921,
+            "total_keystrokes": 1140,
+            "wpm": 69.29,
+            "session_duration": 197.45,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 193,
+                " ": 139,
+                "o": 74,
+                "t": 72,
+                "a": 67
+            }
+        },
+        {
+            "timestamp": 1740773927,
+            "total_keystrokes": 1170,
+            "wpm": 69.2,
+            "session_duration": 202.89,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 202,
+                " ": 144,
+                "t": 75,
+                "o": 74,
+                "a": 67
+            }
+        },
+        {
+            "timestamp": 1740773933,
+            "total_keystrokes": 1200,
+            "wpm": 68.78,
+            "session_duration": 209.36,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 210,
+                " ": 145,
+                "t": 78,
+                "o": 77,
+                "a": 67
+            }
+        },
+        {
+            "timestamp": 1740773942,
+            "total_keystrokes": 1230,
+            "wpm": 67.83,
+            "session_duration": 217.6,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 219,
+                " ": 145,
+                "o": 80,
+                "t": 79,
+                "a": 67
+            }
+        },
+        {
+            "timestamp": 1740773946,
+            "total_keystrokes": 1260,
+            "wpm": 67.99,
+            "session_duration": 222.39,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 221,
+                " ": 151,
+                "o": 83,
+                "t": 80,
+                "a": 68
+            }
+        },
+        {
+            "timestamp": 1740773949,
+            "total_keystrokes": 1290,
+            "wpm": 68.73,
+            "session_duration": 225.23,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 221,
+                " ": 157,
+                "o": 85,
+                "t": 84,
+                "a": 70
+            }
+        },
+        {
+            "timestamp": 1740773953,
+            "total_keystrokes": 1320,
+            "wpm": 69.14,
+            "session_duration": 229.09,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 224,
+                " ": 162,
+                "t": 86,
+                "o": 85,
+                "a": 70
+            }
+        },
+        {
+            "timestamp": 1740773959,
+            "total_keystrokes": 1350,
+            "wpm": 68.97,
+            "session_duration": 234.88,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 242,
+                " ": 167,
+                "t": 87,
+                "o": 86,
+                "a": 70
+            }
+        },
+        {
+            "timestamp": 1740773967,
+            "total_keystrokes": 1380,
+            "wpm": 68.23,
+            "session_duration": 242.72,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 251,
+                " ": 171,
+                "t": 90,
+                "o": 86,
+                "a": 73
+            }
+        },
+        {
+            "timestamp": 1740773971,
+            "total_keystrokes": 1410,
+            "wpm": 68.63,
+            "session_duration": 246.55,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 268,
+                " ": 172,
+                "t": 92,
+                "o": 89,
+                "a": 73
+            }
+        },
+        {
+            "timestamp": 1740773980,
+            "total_keystrokes": 1440,
+            "wpm": 67.57,
+            "session_duration": 255.75,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 273,
+                " ": 173,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740773984,
+            "total_keystrokes": 1470,
+            "wpm": 67.9,
+            "session_duration": 259.81,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 274,
+                " ": 178,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740773988,
+            "total_keystrokes": 1500,
+            "wpm": 68.27,
+            "session_duration": 263.64,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 286,
+                " ": 180,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740773992,
+            "total_keystrokes": 1530,
+            "wpm": 68.51,
+            "session_duration": 268.0,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 290,
+                " ": 186,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740773997,
+            "total_keystrokes": 1560,
+            "wpm": 68.65,
+            "session_duration": 272.7,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 305,
+                " ": 190,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740774003,
+            "total_keystrokes": 1590,
+            "wpm": 68.44,
+            "session_duration": 278.77,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 310,
+                " ": 194,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740774008,
+            "total_keystrokes": 1620,
+            "wpm": 68.42,
+            "session_duration": 284.14,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 318,
+                " ": 197,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740774012,
+            "total_keystrokes": 1650,
+            "wpm": 68.8,
+            "session_duration": 287.77,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 325,
+                " ": 199,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740774016,
+            "total_keystrokes": 1680,
+            "wpm": 69.03,
+            "session_duration": 292.05,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 331,
+                " ": 202,
+                "t": 94,
+                "o": 90,
+                "a": 74
+            }
+        },
+        {
+            "timestamp": 1740774024,
+            "total_keystrokes": 1710,
+            "wpm": 68.3,
+            "session_duration": 300.44,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 335,
+                " ": 205,
+                "t": 94,
+                "o": 90,
+                "a": 75
+            }
+        },
+        {
+            "timestamp": 1740774028,
+            "total_keystrokes": 1740,
+            "wpm": 68.61,
+            "session_duration": 304.32,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 345,
+                " ": 207,
+                "t": 95,
+                "o": 91,
+                "a": 78
+            }
+        },
+        {
+            "timestamp": 1740774033,
+            "total_keystrokes": 1770,
+            "wpm": 68.72,
+            "session_duration": 309.1,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 352,
+                " ": 210,
+                "t": 96,
+                "o": 93,
+                "a": 78
+            }
+        },
+        {
+            "timestamp": 1740774040,
+            "total_keystrokes": 1800,
+            "wpm": 68.27,
+            "session_duration": 316.41,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 369,
+                " ": 210,
+                "t": 96,
+                "o": 95,
+                "a": 78
+            }
+        },
+        {
+            "timestamp": 1740774044,
+            "total_keystrokes": 1830,
+            "wpm": 68.64,
+            "session_duration": 319.92,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 373,
+                " ": 214,
+                "o": 97,
+                "t": 97,
+                "e": 80
+            }
+        },
+        {
+            "timestamp": 1740774048,
+            "total_keystrokes": 1860,
+            "wpm": 68.86,
+            "session_duration": 324.12,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 374,
+                " ": 219,
+                "o": 100,
+                "t": 98,
+                "e": 83
+            }
+        },
+        {
+            "timestamp": 1740774056,
+            "total_keystrokes": 1890,
+            "wpm": 68.26,
+            "session_duration": 332.27,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 381,
+                " ": 222,
+                "o": 100,
+                "t": 98,
+                "e": 85
+            }
+        },
+        {
+            "timestamp": 1740774060,
+            "total_keystrokes": 1920,
+            "wpm": 68.62,
+            "session_duration": 335.78,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 384,
+                " ": 225,
+                "t": 102,
+                "o": 101,
+                "e": 89
+            }
+        },
+        {
+            "timestamp": 1740774065,
+            "total_keystrokes": 1950,
+            "wpm": 68.63,
+            "session_duration": 340.94,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 392,
+                " ": 228,
+                "t": 104,
+                "o": 103,
+                "e": 90
+            }
+        },
+        {
+            "timestamp": 1740774069,
+            "total_keystrokes": 1980,
+            "wpm": 68.81,
+            "session_duration": 345.32,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 392,
+                " ": 233,
+                "t": 105,
+                "o": 103,
+                "e": 94
+            }
+        },
+        {
+            "timestamp": 1740774073,
+            "total_keystrokes": 2010,
+            "wpm": 69.06,
+            "session_duration": 349.27,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 395,
+                " ": 238,
+                "t": 107,
+                "o": 104,
+                "e": 96
+            }
+        },
+        {
+            "timestamp": 1740774076,
+            "total_keystrokes": 2040,
+            "wpm": 69.49,
+            "session_duration": 352.3,
+            "avg_keystroke_time": 0.174,
+            "most_used_keys": {
+                "\u007f": 401,
+                " ": 243,
+                "t": 108,
+                "o": 107,
+                "e": 97
+            }
+        },
+        {
+            "timestamp": 1740774079,
+            "total_keystrokes": 2070,
+            "wpm": 69.91,
+            "session_duration": 355.31,
+            "avg_keystroke_time": 0.173,
+            "most_used_keys": {
+                "\u007f": 402,
+                " ": 248,
+                "t": 113,
+                "o": 110,
+                "e": 98
+            }
+        },
+        {
+            "timestamp": 1740774084,
+            "total_keystrokes": 2100,
+            "wpm": 69.98,
+            "session_duration": 360.1,
+            "avg_keystroke_time": 0.173,
+            "most_used_keys": {
+                "\u007f": 404,
+                " ": 252,
+                "t": 113,
+                "o": 110,
+                "e": 98
+            }
+        },
+        {
+            "timestamp": 1740774088,
+            "total_keystrokes": 2130,
+            "wpm": 70.17,
+            "session_duration": 364.25,
+            "avg_keystroke_time": 0.173,
+            "most_used_keys": {
+                "\u007f": 409,
+                " ": 255,
+                "t": 116,
+                "o": 111,
+                "e": 101
+            }
+        },
+        {
+            "timestamp": 1740774091,
+            "total_keystrokes": 2160,
+            "wpm": 70.57,
+            "session_duration": 367.28,
+            "avg_keystroke_time": 0.172,
+            "most_used_keys": {
+                "\u007f": 413,
+                " ": 260,
+                "t": 117,
+                "o": 114,
+                "e": 103
+            }
+        },
+        {
+            "timestamp": 1740774096,
+            "total_keystrokes": 2190,
+            "wpm": 70.72,
+            "session_duration": 371.59,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 421,
+                " ": 263,
+                "t": 118,
+                "o": 117,
+                "e": 104
+            }
+        },
+        {
+            "timestamp": 1740774100,
+            "total_keystrokes": 2220,
+            "wpm": 70.77,
+            "session_duration": 376.41,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 427,
+                " ": 267,
+                "o": 119,
+                "t": 119,
+                "e": 107
+            }
+        },
+        {
+            "timestamp": 1740774105,
+            "total_keystrokes": 2250,
+            "wpm": 70.94,
+            "session_duration": 380.58,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 437,
+                " ": 269,
+                "o": 122,
+                "t": 122,
+                "e": 107
+            }
+        },
+        {
+            "timestamp": 1740774110,
+            "total_keystrokes": 2280,
+            "wpm": 70.87,
+            "session_duration": 386.07,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 445,
+                " ": 271,
+                "o": 123,
+                "t": 123,
+                "e": 108
+            }
+        },
+        {
+            "timestamp": 1740774115,
+            "total_keystrokes": 2310,
+            "wpm": 70.96,
+            "session_duration": 390.65,
+            "avg_keystroke_time": 0.171,
+            "most_used_keys": {
+                "\u007f": 450,
+                " ": 277,
+                "o": 127,
+                "t": 124,
+                "e": 110
+            }
+        },
+        {
+            "timestamp": 1740774118,
+            "total_keystrokes": 2340,
+            "wpm": 71.36,
+            "session_duration": 393.51,
+            "avg_keystroke_time": 0.17,
+            "most_used_keys": {
+                "\u007f": 450,
+                " ": 282,
+                "o": 131,
+                "t": 127,
+                "e": 113
+            }
+        },
+        {
+            "timestamp": 1740774143,
+            "total_keystrokes": 2370,
+            "wpm": 68.67,
+            "session_duration": 414.15,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 458,
+                " ": 284,
+                "o": 132,
+                "t": 127,
+                "e": 114
+            }
+        },
+        {
+            "timestamp": 1740774152,
+            "total_keystrokes": 2400,
+            "wpm": 68.12,
+            "session_duration": 422.8,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 469,
+                " ": 286,
+                "o": 132,
+                "t": 127,
+                "e": 115
+            }
+        },
+        {
+            "timestamp": 1740774155,
+            "total_keystrokes": 2430,
+            "wpm": 68.48,
+            "session_duration": 425.8,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 473,
+                " ": 290,
+                "o": 135,
+                "t": 128,
+                "e": 117
+            }
+        },
+        {
+            "timestamp": 1740774160,
+            "total_keystrokes": 2460,
+            "wpm": 68.51,
+            "session_duration": 430.92,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 475,
+                " ": 294,
+                "o": 138,
+                "t": 132,
+                "e": 118
+            }
+        },
+        {
+            "timestamp": 1740774164,
+            "total_keystrokes": 2490,
+            "wpm": 68.79,
+            "session_duration": 434.38,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 481,
+                " ": 297,
+                "o": 140,
+                "t": 133,
+                "e": 122
+            }
+        },
+        {
+            "timestamp": 1740774169,
+            "total_keystrokes": 2520,
+            "wpm": 68.8,
+            "session_duration": 439.56,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 487,
+                " ": 301,
+                "o": 142,
+                "t": 135,
+                "e": 123
+            }
+        },
+        {
+            "timestamp": 1740774174,
+            "total_keystrokes": 2550,
+            "wpm": 68.71,
+            "session_duration": 445.34,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 496,
+                " ": 307,
+                "o": 145,
+                "t": 136,
+                "e": 127
+            }
+        },
+        {
+            "timestamp": 1740774178,
+            "total_keystrokes": 2580,
+            "wpm": 69.0,
+            "session_duration": 448.7,
+            "avg_keystroke_time": 0.175,
+            "most_used_keys": {
+                "\u007f": 501,
+                " ": 311,
+                "o": 145,
+                "t": 137,
+                "e": 128
+            }
+        },
+        {
+            "timestamp": 1740774185,
+            "total_keystrokes": 2610,
+            "wpm": 68.77,
+            "session_duration": 455.43,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 512,
+                " ": 312,
+                "o": 145,
+                "t": 138,
+                "e": 130
+            }
+        },
+        {
+            "timestamp": 1740774194,
+            "total_keystrokes": 2640,
+            "wpm": 68.12,
+            "session_duration": 465.06,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 513,
+                " ": 313,
+                "o": 146,
+                "t": 139,
+                "e": 131
+            }
+        },
+        {
+            "timestamp": 1740774206,
+            "total_keystrokes": 2670,
+            "wpm": 68.37,
+            "session_duration": 468.64,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 519,
+                " ": 315,
+                "o": 146,
+                "t": 143,
+                "e": 134
+            }
+        },
+        {
+            "timestamp": 1740774210,
+            "total_keystrokes": 2700,
+            "wpm": 68.66,
+            "session_duration": 471.9,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 526,
+                " ": 320,
+                "o": 148,
+                "t": 145,
+                "e": 137
+            }
+        },
+        {
+            "timestamp": 1740774213,
+            "total_keystrokes": 2730,
+            "wpm": 68.92,
+            "session_duration": 475.32,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 532,
+                " ": 325,
+                "o": 150,
+                "t": 147,
+                "e": 139
+            }
+        },
+        {
+            "timestamp": 1740774216,
+            "total_keystrokes": 2760,
+            "wpm": 69.28,
+            "session_duration": 478.04,
+            "avg_keystroke_time": 0.175,
+            "most_used_keys": {
+                "\u007f": 534,
+                " ": 330,
+                "o": 153,
+                "t": 148,
+                "e": 140
+            }
+        },
+        {
+            "timestamp": 1740774221,
+            "total_keystrokes": 2790,
+            "wpm": 69.22,
+            "session_duration": 483.7,
+            "avg_keystroke_time": 0.175,
+            "most_used_keys": {
+                "\u007f": 541,
+                " ": 330,
+                "o": 153,
+                "t": 150,
+                "e": 140
+            }
+        },
+        {
+            "timestamp": 1740774229,
+            "total_keystrokes": 2820,
+            "wpm": 68.82,
+            "session_duration": 491.74,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 543,
+                " ": 333,
+                "o": 154,
+                "t": 151,
+                "e": 142
+            }
+        },
+        {
+            "timestamp": 1740774232,
+            "total_keystrokes": 2850,
+            "wpm": 69.13,
+            "session_duration": 494.72,
+            "avg_keystroke_time": 0.175,
+            "most_used_keys": {
+                "\u007f": 548,
+                " ": 338,
+                "o": 156,
+                "t": 151,
+                "e": 142
+            }
+        },
+        {
+            "timestamp": 1740774251,
+            "total_keystrokes": 2880,
+            "wpm": 69.16,
+            "session_duration": 499.74,
+            "avg_keystroke_time": 0.175,
+            "most_used_keys": {
+                "\u007f": 555,
+                " ": 343,
+                "o": 158,
+                "t": 154,
+                "e": 142
+            }
+        },
+        {
+            "timestamp": 1740774297,
+            "total_keystrokes": 2910,
+            "wpm": 68.47,
+            "session_duration": 509.99,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 560,
+                " ": 347,
+                "o": 159,
+                "t": 155,
+                "e": 144
+            }
+        },
+        {
+            "timestamp": 1740774305,
+            "total_keystrokes": 2940,
+            "wpm": 68.01,
+            "session_duration": 518.75,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 568,
+                " ": 349,
+                "o": 162,
+                "t": 157,
+                "e": 144
+            }
+        },
+        {
+            "timestamp": 1740774324,
+            "total_keystrokes": 2970,
+            "wpm": 67.99,
+            "session_duration": 524.19,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 569,
+                " ": 352,
+                "o": 164,
+                "t": 158,
+                "e": 147
+            }
+        },
+        {
+            "timestamp": 1740774336,
+            "total_keystrokes": 3000,
+            "wpm": 67.1,
+            "session_duration": 536.52,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 573,
+                " ": 354,
+                "o": 164,
+                "t": 159,
+                "e": 147
+            }
+        },
+        {
+            "timestamp": 1740774349,
+            "total_keystrokes": 3030,
+            "wpm": 67.21,
+            "session_duration": 541.02,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 576,
+                " ": 361,
+                "o": 166,
+                "t": 161,
+                "e": 149
+            }
+        },
+        {
+            "timestamp": 1740774353,
+            "total_keystrokes": 3060,
+            "wpm": 67.43,
+            "session_duration": 544.57,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 576,
+                " ": 365,
+                "o": 169,
+                "t": 164,
+                "e": 150
+            }
+        },
+        {
+            "timestamp": 1740774393,
+            "total_keystrokes": 3090,
+            "wpm": 66.87,
+            "session_duration": 554.54,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 576,
+                " ": 372,
+                "o": 170,
+                "t": 166,
+                "e": 152
+            }
+        },
+        {
+            "timestamp": 1740774397,
+            "total_keystrokes": 3120,
+            "wpm": 67.07,
+            "session_duration": 558.26,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 576,
+                " ": 377,
+                "o": 170,
+                "t": 166,
+                "e": 152
+            }
+        },
+        {
+            "timestamp": 1740774403,
+            "total_keystrokes": 3150,
+            "wpm": 66.94,
+            "session_duration": 564.64,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 577,
+                " ": 381,
+                "o": 170,
+                "t": 166,
+                "e": 152
+            }
+        },
+        {
+            "timestamp": 1740774496,
+            "total_keystrokes": 3180,
+            "wpm": 66.37,
+            "session_duration": 574.94,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 585,
+                " ": 383,
+                "o": 171,
+                "t": 167,
+                "e": 153
+            }
+        },
+        {
+            "timestamp": 1740774498,
+            "total_keystrokes": 3210,
+            "wpm": 66.68,
+            "session_duration": 577.64,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 587,
+                " ": 387,
+                "o": 172,
+                "t": 169,
+                "e": 153
+            }
+        },
+        {
+            "timestamp": 1740774502,
+            "total_keystrokes": 3240,
+            "wpm": 66.85,
+            "session_duration": 581.57,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 589,
+                " ": 392,
+                "o": 173,
+                "t": 170,
+                "e": 155
+            }
+        },
+        {
+            "timestamp": 1740774505,
+            "total_keystrokes": 3270,
+            "wpm": 67.14,
+            "session_duration": 584.44,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 592,
+                " ": 399,
+                "o": 178,
+                "t": 173,
+                "e": 158
+            }
+        },
+        {
+            "timestamp": 1740774509,
+            "total_keystrokes": 3300,
+            "wpm": 67.3,
+            "session_duration": 588.41,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 593,
+                " ": 404,
+                "o": 180,
+                "t": 174,
+                "e": 159
+            }
+        },
+        {
+            "timestamp": 1740774513,
+            "total_keystrokes": 3330,
+            "wpm": 67.45,
+            "session_duration": 592.48,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 593,
+                " ": 407,
+                "o": 182,
+                "t": 176,
+                "e": 163
+            }
+        },
+        {
+            "timestamp": 1740774517,
+            "total_keystrokes": 3360,
+            "wpm": 67.6,
+            "session_duration": 596.49,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 594,
+                " ": 413,
+                "o": 184,
+                "t": 177,
+                "e": 165
+            }
+        },
+        {
+            "timestamp": 1740774523,
+            "total_keystrokes": 3390,
+            "wpm": 67.52,
+            "session_duration": 602.53,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 602,
+                " ": 415,
+                "o": 186,
+                "t": 178,
+                "e": 167
+            }
+        },
+        {
+            "timestamp": 1740774540,
+            "total_keystrokes": 3420,
+            "wpm": 67.69,
+            "session_duration": 606.29,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 610,
+                " ": 419,
+                "o": 189,
+                "t": 180,
+                "e": 168
+            }
+        },
+        {
+            "timestamp": 1740774545,
+            "total_keystrokes": 3450,
+            "wpm": 67.76,
+            "session_duration": 610.99,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 613,
+                " ": 423,
+                "o": 190,
+                "t": 183,
+                "e": 169
+            }
+        },
+        {
+            "timestamp": 1740774550,
+            "total_keystrokes": 3480,
+            "wpm": 67.77,
+            "session_duration": 616.24,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 621,
+                " ": 428,
+                "o": 191,
+                "t": 185,
+                "e": 171
+            }
+        },
+        {
+            "timestamp": 1740774559,
+            "total_keystrokes": 3510,
+            "wpm": 67.33,
+            "session_duration": 625.62,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 627,
+                " ": 431,
+                "o": 192,
+                "t": 185,
+                "e": 172
+            }
+        },
+        {
+            "timestamp": 1740774572,
+            "total_keystrokes": 3540,
+            "wpm": 66.57,
+            "session_duration": 638.16,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 633,
+                " ": 432,
+                "o": 195,
+                "t": 186,
+                "e": 174
+            }
+        },
+        {
+            "timestamp": 1740774656,
+            "total_keystrokes": 3570,
+            "wpm": 66.36,
+            "session_duration": 645.55,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 640,
+                " ": 433,
+                "o": 197,
+                "t": 186,
+                "e": 175
+            }
+        },
+        {
+            "timestamp": 1740774664,
+            "total_keystrokes": 3600,
+            "wpm": 66.14,
+            "session_duration": 653.16,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 650,
+                " ": 436,
+                "o": 198,
+                "t": 187,
+                "e": 178
+            }
+        },
+        {
+            "timestamp": 1740774667,
+            "total_keystrokes": 3630,
+            "wpm": 66.38,
+            "session_duration": 656.18,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 656,
+                " ": 440,
+                "o": 199,
+                "t": 190,
+                "e": 182
+            }
+        },
+        {
+            "timestamp": 1740774672,
+            "total_keystrokes": 3660,
+            "wpm": 66.35,
+            "session_duration": 661.92,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 666,
+                " ": 443,
+                "o": 200,
+                "t": 193,
+                "e": 185
+            }
+        },
+        {
+            "timestamp": 1740774677,
+            "total_keystrokes": 3690,
+            "wpm": 66.48,
+            "session_duration": 666.04,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 674,
+                " ": 445,
+                "o": 203,
+                "t": 193,
+                "e": 188
+            }
+        },
+        {
+            "timestamp": 1740774680,
+            "total_keystrokes": 3720,
+            "wpm": 66.63,
+            "session_duration": 669.93,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 676,
+                " ": 449,
+                "o": 204,
+                "t": 194,
+                "e": 190
+            }
+        },
+        {
+            "timestamp": 1740774684,
+            "total_keystrokes": 3750,
+            "wpm": 66.83,
+            "session_duration": 673.36,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 686,
+                " ": 454,
+                "o": 209,
+                "t": 196,
+                "e": 190
+            }
+        },
+        {
+            "timestamp": 1740774700,
+            "total_keystrokes": 3780,
+            "wpm": 65.82,
+            "session_duration": 689.13,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 693,
+                " ": 457,
+                "o": 209,
+                "t": 196,
+                "e": 191
+            }
+        },
+        {
+            "timestamp": 1740774704,
+            "total_keystrokes": 3810,
+            "wpm": 65.89,
+            "session_duration": 693.85,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 697,
+                " ": 461,
+                "o": 212,
+                "t": 198,
+                "e": 195
+            }
+        },
+        {
+            "timestamp": 1740774708,
+            "total_keystrokes": 3840,
+            "wpm": 66.1,
+            "session_duration": 697.12,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 704,
+                " ": 466,
+                "o": 215,
+                "t": 199,
+                "e": 198
+            }
+        },
+        {
+            "timestamp": 1740774712,
+            "total_keystrokes": 3870,
+            "wpm": 66.17,
+            "session_duration": 701.79,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 709,
+                " ": 469,
+                "o": 216,
+                "t": 201,
+                "e": 199
+            }
+        },
+        {
+            "timestamp": 1740774717,
+            "total_keystrokes": 3900,
+            "wpm": 66.26,
+            "session_duration": 706.32,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 712,
+                " ": 472,
+                "o": 220,
+                "e": 202,
+                "t": 202
+            }
+        },
+        {
+            "timestamp": 1740774721,
+            "total_keystrokes": 3930,
+            "wpm": 66.35,
+            "session_duration": 710.8,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 720,
+                " ": 477,
+                "o": 222,
+                "e": 204,
+                "t": 203
+            }
+        },
+        {
+            "timestamp": 1740774724,
+            "total_keystrokes": 3960,
+            "wpm": 66.57,
+            "session_duration": 713.81,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 720,
+                " ": 482,
+                "o": 225,
+                "e": 205,
+                "t": 205
+            }
+        },
+        {
+            "timestamp": 1740774734,
+            "total_keystrokes": 3990,
+            "wpm": 66.14,
+            "session_duration": 723.97,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 724,
+                " ": 486,
+                "o": 228,
+                "t": 208,
+                "e": 205
+            }
+        },
+        {
+            "timestamp": 1740774739,
+            "total_keystrokes": 4020,
+            "wpm": 66.21,
+            "session_duration": 728.58,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 731,
+                " ": 487,
+                "o": 232,
+                "t": 208,
+                "e": 206
+            }
+        },
+        {
+            "timestamp": 1740774748,
+            "total_keystrokes": 4050,
+            "wpm": 65.92,
+            "session_duration": 737.29,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 740,
+                " ": 488,
+                "o": 235,
+                "t": 208,
+                "e": 206
+            }
+        },
+        {
+            "timestamp": 1740774752,
+            "total_keystrokes": 4080,
+            "wpm": 66.07,
+            "session_duration": 741.04,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 746,
+                " ": 493,
+                "o": 235,
+                "t": 208,
+                "e": 207
+            }
+        },
+        {
+            "timestamp": 1740774754,
+            "total_keystrokes": 4110,
+            "wpm": 66.32,
+            "session_duration": 743.61,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 746,
+                " ": 499,
+                "o": 239,
+                "e": 209,
+                "t": 209
+            }
+        },
+        {
+            "timestamp": 1740774759,
+            "total_keystrokes": 4140,
+            "wpm": 66.41,
+            "session_duration": 748.1,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 747,
+                " ": 504,
+                "o": 241,
+                "e": 214,
+                "t": 210
+            }
+        },
+        {
+            "timestamp": 1740774762,
+            "total_keystrokes": 4170,
+            "wpm": 66.55,
+            "session_duration": 751.91,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 749,
+                " ": 509,
+                "o": 242,
+                "e": 216,
+                "t": 215
+            }
+        },
+        {
+            "timestamp": 1740774767,
+            "total_keystrokes": 4200,
+            "wpm": 66.64,
+            "session_duration": 756.33,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 752,
+                " ": 514,
+                "o": 246,
+                "e": 218,
+                "t": 216
+            }
+        },
+        {
+            "timestamp": 1740774771,
+            "total_keystrokes": 4230,
+            "wpm": 66.75,
+            "session_duration": 760.5,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 762,
+                " ": 515,
+                "o": 248,
+                "e": 221,
+                "t": 217
+            }
+        },
+        {
+            "timestamp": 1740774776,
+            "total_keystrokes": 4260,
+            "wpm": 66.78,
+            "session_duration": 765.46,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 769,
+                " ": 517,
+                "o": 252,
+                "e": 224,
+                "t": 217
+            }
+        },
+        {
+            "timestamp": 1740774780,
+            "total_keystrokes": 4290,
+            "wpm": 66.93,
+            "session_duration": 769.18,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 777,
+                " ": 522,
+                "o": 252,
+                "e": 225,
+                "t": 219
+            }
+        },
+        {
+            "timestamp": 1740774784,
+            "total_keystrokes": 4320,
+            "wpm": 67.04,
+            "session_duration": 773.32,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 779,
+                " ": 527,
+                "o": 252,
+                "e": 227,
+                "t": 222
+            }
+        },
+        {
+            "timestamp": 1740774791,
+            "total_keystrokes": 4350,
+            "wpm": 66.89,
+            "session_duration": 780.37,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 779,
+                " ": 531,
+                "o": 255,
+                "e": 228,
+                "t": 224
+            }
+        },
+        {
+            "timestamp": 1740774799,
+            "total_keystrokes": 4380,
+            "wpm": 66.68,
+            "session_duration": 788.25,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 787,
+                " ": 532,
+                "o": 255,
+                "e": 228,
+                "t": 225
+            }
+        },
+        {
+            "timestamp": 1740774803,
+            "total_keystrokes": 4410,
+            "wpm": 66.79,
+            "session_duration": 792.3,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 787,
+                " ": 537,
+                "o": 257,
+                "e": 228,
+                "t": 226
+            }
+        },
+        {
+            "timestamp": 1740774807,
+            "total_keystrokes": 4440,
+            "wpm": 66.89,
+            "session_duration": 796.54,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 788,
+                " ": 541,
+                "o": 260,
+                "e": 229,
+                "t": 228
+            }
+        },
+        {
+            "timestamp": 1740774813,
+            "total_keystrokes": 4470,
+            "wpm": 66.86,
+            "session_duration": 802.31,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 794,
+                " ": 545,
+                "o": 261,
+                "e": 231,
+                "t": 229
+            }
+        },
+        {
+            "timestamp": 1740774817,
+            "total_keystrokes": 4500,
+            "wpm": 66.99,
+            "session_duration": 806.07,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 801,
+                " ": 549,
+                "o": 261,
+                "e": 236,
+                "t": 231
+            }
+        },
+        {
+            "timestamp": 1740774820,
+            "total_keystrokes": 4530,
+            "wpm": 67.15,
+            "session_duration": 809.51,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 812,
+                " ": 552,
+                "o": 262,
+                "e": 237,
+                "t": 235
+            }
+        },
+        {
+            "timestamp": 1740774824,
+            "total_keystrokes": 4560,
+            "wpm": 67.23,
+            "session_duration": 813.97,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 814,
+                " ": 554,
+                "o": 264,
+                "t": 238,
+                "e": 237
+            }
+        },
+        {
+            "timestamp": 1740774831,
+            "total_keystrokes": 4590,
+            "wpm": 67.16,
+            "session_duration": 820.09,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 819,
+                " ": 559,
+                "o": 266,
+                "t": 239,
+                "e": 237
+            }
+        },
+        {
+            "timestamp": 1740774836,
+            "total_keystrokes": 4620,
+            "wpm": 67.13,
+            "session_duration": 825.82,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 825,
+                " ": 563,
+                "o": 267,
+                "e": 239,
+                "t": 239
+            }
+        },
+        {
+            "timestamp": 1740774841,
+            "total_keystrokes": 4650,
+            "wpm": 67.2,
+            "session_duration": 830.32,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 825,
+                " ": 568,
+                "o": 268,
+                "e": 242,
+                "t": 241
+            }
+        },
+        {
+            "timestamp": 1740774849,
+            "total_keystrokes": 4680,
+            "wpm": 67.01,
+            "session_duration": 838.04,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 833,
+                " ": 572,
+                "o": 269,
+                "e": 245,
+                "t": 242
+            }
+        },
+        {
+            "timestamp": 1740774864,
+            "total_keystrokes": 4710,
+            "wpm": 67.1,
+            "session_duration": 842.27,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 834,
+                " ": 577,
+                "o": 269,
+                "e": 248,
+                "t": 245
+            }
+        },
+        {
+            "timestamp": 1740774867,
+            "total_keystrokes": 4740,
+            "wpm": 67.27,
+            "session_duration": 845.51,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 838,
+                " ": 581,
+                "o": 272,
+                "e": 253,
+                "t": 247
+            }
+        },
+        {
+            "timestamp": 1740774870,
+            "total_keystrokes": 4770,
+            "wpm": 67.47,
+            "session_duration": 848.37,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 841,
+                " ": 584,
+                "o": 274,
+                "e": 254,
+                "t": 250
+            }
+        },
+        {
+            "timestamp": 1740774874,
+            "total_keystrokes": 4800,
+            "wpm": 67.56,
+            "session_duration": 852.53,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 843,
+                " ": 589,
+                "o": 276,
+                "e": 256,
+                "t": 252
+            }
+        },
+        {
+            "timestamp": 1740774882,
+            "total_keystrokes": 4830,
+            "wpm": 67.37,
+            "session_duration": 860.27,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 845,
+                " ": 596,
+                "o": 279,
+                "e": 261,
+                "t": 253
+            }
+        },
+        {
+            "timestamp": 1740774887,
+            "total_keystrokes": 4860,
+            "wpm": 67.42,
+            "session_duration": 865.04,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 849,
+                " ": 600,
+                "o": 280,
+                "e": 262,
+                "t": 254
+            }
+        },
+        {
+            "timestamp": 1740774900,
+            "total_keystrokes": 4890,
+            "wpm": 67.2,
+            "session_duration": 873.23,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 855,
+                " ": 600,
+                "o": 284,
+                "e": 264,
+                "t": 254
+            }
+        },
+        {
+            "timestamp": 1740774909,
+            "total_keystrokes": 4920,
+            "wpm": 66.91,
+            "session_duration": 882.39,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 860,
+                " ": 602,
+                "o": 285,
+                "e": 264,
+                "t": 256
+            }
+        },
+        {
+            "timestamp": 1740774914,
+            "total_keystrokes": 4950,
+            "wpm": 66.95,
+            "session_duration": 887.28,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 861,
+                " ": 607,
+                "o": 287,
+                "e": 266,
+                "t": 256
+            }
+        },
+        {
+            "timestamp": 1740774919,
+            "total_keystrokes": 4980,
+            "wpm": 66.99,
+            "session_duration": 892.05,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 864,
+                " ": 611,
+                "o": 290,
+                "e": 269,
+                "t": 257
+            }
+        },
+        {
+            "timestamp": 1740774925,
+            "total_keystrokes": 5010,
+            "wpm": 66.98,
+            "session_duration": 897.63,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 871,
+                " ": 617,
+                "o": 293,
+                "e": 269,
+                "t": 258
+            }
+        },
+        {
+            "timestamp": 1740774929,
+            "total_keystrokes": 5040,
+            "wpm": 67.07,
+            "session_duration": 901.79,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 879,
+                " ": 621,
+                "o": 293,
+                "e": 270,
+                "t": 261
+            }
+        },
+        {
+            "timestamp": 1740774933,
+            "total_keystrokes": 5070,
+            "wpm": 67.17,
+            "session_duration": 905.73,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 880,
+                " ": 625,
+                "o": 296,
+                "e": 272,
+                "t": 264
+            }
+        },
+        {
+            "timestamp": 1740774938,
+            "total_keystrokes": 5100,
+            "wpm": 67.2,
+            "session_duration": 910.77,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 886,
+                " ": 630,
+                "o": 297,
+                "e": 275,
+                "t": 265
+            }
+        },
+        {
+            "timestamp": 1740774942,
+            "total_keystrokes": 5130,
+            "wpm": 67.31,
+            "session_duration": 914.57,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 890,
+                " ": 635,
+                "o": 300,
+                "e": 279,
+                "t": 266
+            }
+        },
+        {
+            "timestamp": 1740775042,
+            "total_keystrokes": 5160,
+            "wpm": 67.17,
+            "session_duration": 921.83,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 890,
+                " ": 638,
+                "o": 302,
+                "e": 282,
+                "t": 268
+            }
+        },
+        {
+            "timestamp": 1740775046,
+            "total_keystrokes": 5190,
+            "wpm": 67.34,
+            "session_duration": 924.88,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 891,
+                " ": 643,
+                "o": 305,
+                "e": 283,
+                "t": 270
+            }
+        },
+        {
+            "timestamp": 1740775086,
+            "total_keystrokes": 5220,
+            "wpm": 65.98,
+            "session_duration": 949.4,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 893,
+                " ": 644,
+                "o": 306,
+                "e": 284,
+                "t": 271
+            }
+        },
+        {
+            "timestamp": 1740775150,
+            "total_keystrokes": 5250,
+            "wpm": 66.0,
+            "session_duration": 954.61,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 912,
+                " ": 645,
+                "o": 306,
+                "e": 287,
+                "t": 271
+            }
+        },
+        {
+            "timestamp": 1740775172,
+            "total_keystrokes": 5280,
+            "wpm": 66.18,
+            "session_duration": 957.44,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 914,
+                " ": 650,
+                "o": 308,
+                "e": 291,
+                "t": 271
+            }
+        },
+        {
+            "timestamp": 1740775177,
+            "total_keystrokes": 5310,
+            "wpm": 66.2,
+            "session_duration": 962.59,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 915,
+                " ": 655,
+                "o": 308,
+                "e": 294,
+                "t": 272
+            }
+        },
+        {
+            "timestamp": 1740775200,
+            "total_keystrokes": 5340,
+            "wpm": 66.12,
+            "session_duration": 969.14,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 922,
+                " ": 659,
+                "o": 308,
+                "e": 295,
+                "t": 273
+            }
+        },
+        {
+            "timestamp": 1740775203,
+            "total_keystrokes": 5370,
+            "wpm": 66.24,
+            "session_duration": 972.81,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 927,
+                " ": 664,
+                "o": 311,
+                "e": 296,
+                "t": 273
+            }
+        },
+        {
+            "timestamp": 1740775265,
+            "total_keystrokes": 5400,
+            "wpm": 66.33,
+            "session_duration": 976.92,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 928,
+                " ": 665,
+                "o": 314,
+                "e": 298,
+                "t": 276
+            }
+        },
+        {
+            "timestamp": 1740775272,
+            "total_keystrokes": 5430,
+            "wpm": 66.27,
+            "session_duration": 983.24,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 932,
+                " ": 666,
+                "o": 317,
+                "e": 301,
+                "t": 277
+            }
+        },
+        {
+            "timestamp": 1740775463,
+            "total_keystrokes": 5460,
+            "wpm": 66.38,
+            "session_duration": 987.09,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 937,
+                " ": 667,
+                "o": 320,
+                "e": 302,
+                "t": 279
+            }
+        },
+        {
+            "timestamp": 1740775477,
+            "total_keystrokes": 5490,
+            "wpm": 66.14,
+            "session_duration": 996.01,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 946,
+                " ": 667,
+                "o": 320,
+                "e": 306,
+                "t": 282
+            }
+        },
+        {
+            "timestamp": 1740775523,
+            "total_keystrokes": 5520,
+            "wpm": 66.06,
+            "session_duration": 1002.69,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 956,
+                " ": 668,
+                "o": 320,
+                "e": 309,
+                "t": 283
+            }
+        },
+        {
+            "timestamp": 1740775534,
+            "total_keystrokes": 5550,
+            "wpm": 65.68,
+            "session_duration": 1014.01,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 960,
+                " ": 669,
+                "o": 320,
+                "e": 312,
+                "t": 284
+            }
+        },
+        {
+            "timestamp": 1740775579,
+            "total_keystrokes": 5580,
+            "wpm": 65.24,
+            "session_duration": 1026.31,
+            "avg_keystroke_time": 0.186,
+            "most_used_keys": {
+                "\u007f": 971,
+                " ": 669,
+                "o": 321,
+                "e": 313,
+                "t": 288
+            }
+        },
+        {
+            "timestamp": 1740775585,
+            "total_keystrokes": 5610,
+            "wpm": 65.22,
+            "session_duration": 1032.14,
+            "avg_keystroke_time": 0.186,
+            "most_used_keys": {
+                "\u007f": 980,
+                " ": 671,
+                "o": 322,
+                "e": 313,
+                "t": 291
+            }
+        },
+        {
+            "timestamp": 1740775588,
+            "total_keystrokes": 5640,
+            "wpm": 65.36,
+            "session_duration": 1035.49,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 981,
+                " ": 675,
+                "o": 323,
+                "e": 314,
+                "t": 294
+            }
+        },
+        {
+            "timestamp": 1740775593,
+            "total_keystrokes": 5670,
+            "wpm": 65.38,
+            "session_duration": 1040.63,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 988,
+                " ": 679,
+                "o": 324,
+                "e": 314,
+                "t": 296
+            }
+        },
+        {
+            "timestamp": 1740775596,
+            "total_keystrokes": 5700,
+            "wpm": 65.52,
+            "session_duration": 1043.96,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 990,
+                " ": 683,
+                "o": 327,
+                "e": 316,
+                "t": 298
+            }
+        },
+        {
+            "timestamp": 1740775675,
+            "total_keystrokes": 5730,
+            "wpm": 65.43,
+            "session_duration": 1050.85,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 992,
+                " ": 686,
+                "o": 328,
+                "e": 317,
+                "t": 301
+            }
+        },
+        {
+            "timestamp": 1740775678,
+            "total_keystrokes": 5760,
+            "wpm": 65.55,
+            "session_duration": 1054.39,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 1006,
+                " ": 689,
+                "o": 330,
+                "e": 318,
+                "t": 306
+            }
+        },
+        {
+            "timestamp": 1740775682,
+            "total_keystrokes": 5790,
+            "wpm": 65.69,
+            "session_duration": 1057.65,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1012,
+                " ": 692,
+                "o": 336,
+                "e": 319,
+                "t": 309
+            }
+        },
+        {
+            "timestamp": 1740775685,
+            "total_keystrokes": 5820,
+            "wpm": 65.8,
+            "session_duration": 1061.42,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1021,
+                " ": 697,
+                "o": 336,
+                "e": 323,
+                "t": 310
+            }
+        },
+        {
+            "timestamp": 1740775690,
+            "total_keystrokes": 5850,
+            "wpm": 65.88,
+            "session_duration": 1065.64,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1022,
+                " ": 702,
+                "o": 339,
+                "e": 325,
+                "t": 310
+            }
+        },
+        {
+            "timestamp": 1740775693,
+            "total_keystrokes": 5880,
+            "wpm": 66.01,
+            "session_duration": 1068.97,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1022,
+                " ": 708,
+                "o": 340,
+                "e": 327,
+                "t": 311
+            }
+        },
+        {
+            "timestamp": 1740775696,
+            "total_keystrokes": 5910,
+            "wpm": 66.13,
+            "session_duration": 1072.43,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1024,
+                " ": 713,
+                "o": 342,
+                "e": 328,
+                "t": 316
+            }
+        },
+        {
+            "timestamp": 1740775700,
+            "total_keystrokes": 5940,
+            "wpm": 66.25,
+            "session_duration": 1075.93,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1042,
+                " ": 716,
+                "o": 343,
+                "e": 329,
+                "t": 317
+            }
+        },
+        {
+            "timestamp": 1740775704,
+            "total_keystrokes": 5970,
+            "wpm": 66.34,
+            "session_duration": 1079.83,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1045,
+                " ": 720,
+                "o": 347,
+                "e": 329,
+                "t": 319
+            }
+        },
+        {
+            "timestamp": 1740775714,
+            "total_keystrokes": 6000,
+            "wpm": 66.06,
+            "session_duration": 1089.9,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1050,
+                " ": 724,
+                "o": 349,
+                "e": 330,
+                "t": 319
+            }
+        },
+        {
+            "timestamp": 1740775719,
+            "total_keystrokes": 6030,
+            "wpm": 66.05,
+            "session_duration": 1095.53,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1052,
+                " ": 725,
+                "o": 352,
+                "e": 331,
+                "t": 320
+            }
+        },
+        {
+            "timestamp": 1740775729,
+            "total_keystrokes": 6060,
+            "wpm": 65.8,
+            "session_duration": 1105.24,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1055,
+                " ": 731,
+                "o": 353,
+                "e": 334,
+                "t": 320
+            }
+        },
+        {
+            "timestamp": 1740775733,
+            "total_keystrokes": 6090,
+            "wpm": 65.89,
+            "session_duration": 1109.1,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1058,
+                " ": 736,
+                "o": 356,
+                "e": 335,
+                "t": 322
+            }
+        },
+        {
+            "timestamp": 1740775738,
+            "total_keystrokes": 6120,
+            "wpm": 65.93,
+            "session_duration": 1113.89,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1064,
+                " ": 741,
+                "o": 358,
+                "e": 337,
+                "t": 322
+            }
+        },
+        {
+            "timestamp": 1740775742,
+            "total_keystrokes": 6150,
+            "wpm": 66.03,
+            "session_duration": 1117.62,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1069,
+                " ": 746,
+                "o": 360,
+                "e": 339,
+                "t": 323
+            }
+        },
+        {
+            "timestamp": 1740775745,
+            "total_keystrokes": 6180,
+            "wpm": 66.13,
+            "session_duration": 1121.5,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1074,
+                " ": 749,
+                "o": 362,
+                "e": 342,
+                "t": 327
+            }
+        },
+        {
+            "timestamp": 1740775749,
+            "total_keystrokes": 6210,
+            "wpm": 66.24,
+            "session_duration": 1124.93,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1075,
+                " ": 754,
+                "o": 363,
+                "e": 345,
+                "t": 331
+            }
+        },
+        {
+            "timestamp": 1740775755,
+            "total_keystrokes": 6240,
+            "wpm": 66.21,
+            "session_duration": 1131.0,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1077,
+                " ": 759,
+                "o": 365,
+                "e": 347,
+                "t": 333
+            }
+        },
+        {
+            "timestamp": 1740775759,
+            "total_keystrokes": 6270,
+            "wpm": 66.29,
+            "session_duration": 1135.05,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1086,
+                " ": 761,
+                "o": 365,
+                "e": 347,
+                "t": 335
+            }
+        },
+        {
+            "timestamp": 1740775766,
+            "total_keystrokes": 6300,
+            "wpm": 66.18,
+            "session_duration": 1142.26,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1090,
+                " ": 763,
+                "o": 367,
+                "e": 348,
+                "t": 335
+            }
+        },
+        {
+            "timestamp": 1740775773,
+            "total_keystrokes": 6330,
+            "wpm": 66.08,
+            "session_duration": 1149.47,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1096,
+                " ": 764,
+                "o": 370,
+                "e": 348,
+                "t": 337
+            }
+        },
+        {
+            "timestamp": 1740775787,
+            "total_keystrokes": 6360,
+            "wpm": 66.04,
+            "session_duration": 1155.75,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1097,
+                " ": 766,
+                "o": 373,
+                "e": 349,
+                "t": 340
+            }
+        },
+        {
+            "timestamp": 1740775790,
+            "total_keystrokes": 6390,
+            "wpm": 66.14,
+            "session_duration": 1159.42,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1101,
+                " ": 771,
+                "o": 374,
+                "e": 351,
+                "t": 343
+            }
+        },
+        {
+            "timestamp": 1740775794,
+            "total_keystrokes": 6420,
+            "wpm": 66.25,
+            "session_duration": 1162.95,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1111,
+                " ": 772,
+                "o": 374,
+                "e": 354,
+                "t": 343
+            }
+        },
+        {
+            "timestamp": 1740775802,
+            "total_keystrokes": 6450,
+            "wpm": 66.08,
+            "session_duration": 1171.31,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1117,
+                " ": 772,
+                "o": 375,
+                "e": 354,
+                "t": 343
+            }
+        },
+        {
+            "timestamp": 1740775830,
+            "total_keystrokes": 6480,
+            "wpm": 66.12,
+            "session_duration": 1176.03,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1118,
+                " ": 775,
+                "o": 377,
+                "e": 357,
+                "t": 345
+            }
+        },
+        {
+            "timestamp": 1740775862,
+            "total_keystrokes": 6510,
+            "wpm": 66.15,
+            "session_duration": 1180.87,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1122,
+                " ": 777,
+                "o": 379,
+                "e": 357,
+                "t": 347
+            }
+        },
+        {
+            "timestamp": 1740775870,
+            "total_keystrokes": 6540,
+            "wpm": 66.0,
+            "session_duration": 1189.12,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1127,
+                " ": 781,
+                "o": 382,
+                "e": 358,
+                "t": 348
+            }
+        },
+        {
+            "timestamp": 1740775873,
+            "total_keystrokes": 6570,
+            "wpm": 66.14,
+            "session_duration": 1192.02,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1136,
+                " ": 787,
+                "o": 382,
+                "e": 358,
+                "t": 352
+            }
+        },
+        {
+            "timestamp": 1740775879,
+            "total_keystrokes": 6600,
+            "wpm": 66.14,
+            "session_duration": 1197.46,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1143,
+                " ": 790,
+                "o": 384,
+                "e": 358,
+                "t": 352
+            }
+        },
+        {
+            "timestamp": 1740775886,
+            "total_keystrokes": 6630,
+            "wpm": 66.07,
+            "session_duration": 1204.24,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1151,
+                " ": 793,
+                "o": 386,
+                "e": 358,
+                "t": 353
+            }
+        },
+        {
+            "timestamp": 1740775889,
+            "total_keystrokes": 6660,
+            "wpm": 66.16,
+            "session_duration": 1208.01,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1155,
+                " ": 798,
+                "o": 387,
+                "e": 360,
+                "t": 355
+            }
+        },
+        {
+            "timestamp": 1740775893,
+            "total_keystrokes": 6690,
+            "wpm": 66.27,
+            "session_duration": 1211.44,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1155,
+                " ": 804,
+                "o": 390,
+                "e": 364,
+                "t": 357
+            }
+        },
+        {
+            "timestamp": 1740775898,
+            "total_keystrokes": 6720,
+            "wpm": 66.3,
+            "session_duration": 1216.3,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1156,
+                " ": 809,
+                "o": 392,
+                "e": 369,
+                "t": 358
+            }
+        },
+        {
+            "timestamp": 1740775916,
+            "total_keystrokes": 6750,
+            "wpm": 65.97,
+            "session_duration": 1227.84,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1160,
+                " ": 811,
+                "o": 392,
+                "e": 370,
+                "t": 359
+            }
+        },
+        {
+            "timestamp": 1740775919,
+            "total_keystrokes": 6780,
+            "wpm": 66.11,
+            "session_duration": 1230.66,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1162,
+                " ": 816,
+                "o": 394,
+                "e": 372,
+                "t": 361
+            }
+        },
+        {
+            "timestamp": 1740775925,
+            "total_keystrokes": 6810,
+            "wpm": 66.1,
+            "session_duration": 1236.27,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1163,
+                " ": 819,
+                "o": 397,
+                "e": 373,
+                "t": 363
+            }
+        },
+        {
+            "timestamp": 1740775973,
+            "total_keystrokes": 6840,
+            "wpm": 65.96,
+            "session_duration": 1244.37,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1163,
+                " ": 821,
+                "o": 400,
+                "e": 374,
+                "t": 364
+            }
+        },
+        {
+            "timestamp": 1740775976,
+            "total_keystrokes": 6870,
+            "wpm": 66.09,
+            "session_duration": 1247.34,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1172,
+                " ": 823,
+                "o": 402,
+                "e": 374,
+                "t": 365
+            }
+        },
+        {
+            "timestamp": 1740775980,
+            "total_keystrokes": 6900,
+            "wpm": 66.18,
+            "session_duration": 1251.18,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1172,
+                " ": 826,
+                "o": 404,
+                "e": 376,
+                "t": 367
+            }
+        },
+        {
+            "timestamp": 1740776039,
+            "total_keystrokes": 6930,
+            "wpm": 66.06,
+            "session_duration": 1258.78,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1174,
+                " ": 827,
+                "o": 404,
+                "e": 377,
+                "t": 369
+            }
+        },
+        {
+            "timestamp": 1740776046,
+            "total_keystrokes": 6960,
+            "wpm": 65.99,
+            "session_duration": 1265.61,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1186,
+                " ": 829,
+                "o": 405,
+                "e": 377,
+                "t": 370
+            }
+        },
+        {
+            "timestamp": 1740776050,
+            "total_keystrokes": 6990,
+            "wpm": 66.08,
+            "session_duration": 1269.43,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1195,
+                " ": 833,
+                "o": 405,
+                "e": 378,
+                "t": 374
+            }
+        },
+        {
+            "timestamp": 1740776054,
+            "total_keystrokes": 7020,
+            "wpm": 66.13,
+            "session_duration": 1273.85,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1202,
+                " ": 835,
+                "o": 409,
+                "e": 380,
+                "t": 374
+            }
+        },
+        {
+            "timestamp": 1740776058,
+            "total_keystrokes": 7050,
+            "wpm": 66.2,
+            "session_duration": 1277.95,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1206,
+                " ": 838,
+                "o": 411,
+                "e": 381,
+                "t": 374
+            }
+        },
+        {
+            "timestamp": 1740776062,
+            "total_keystrokes": 7080,
+            "wpm": 66.31,
+            "session_duration": 1281.34,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1232,
+                " ": 840,
+                "o": 412,
+                "e": 381,
+                "t": 374
+            }
+        },
+        {
+            "timestamp": 1740776065,
+            "total_keystrokes": 7110,
+            "wpm": 66.42,
+            "session_duration": 1284.56,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1262,
+                " ": 840,
+                "o": 412,
+                "e": 381,
+                "t": 374
+            }
+        },
+        {
+            "timestamp": 1740776072,
+            "total_keystrokes": 7140,
+            "wpm": 66.33,
+            "session_duration": 1291.66,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1268,
+                " ": 843,
+                "o": 414,
+                "e": 382,
+                "t": 375
+            }
+        },
+        {
+            "timestamp": 1740776076,
+            "total_keystrokes": 7170,
+            "wpm": 66.39,
+            "session_duration": 1296.07,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1272,
+                " ": 845,
+                "o": 415,
+                "e": 386,
+                "t": 378
+            }
+        },
+        {
+            "timestamp": 1740776093,
+            "total_keystrokes": 7200,
+            "wpm": 65.83,
+            "session_duration": 1312.42,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1280,
+                " ": 848,
+                "o": 415,
+                "e": 386,
+                "t": 378
+            }
+        },
+        {
+            "timestamp": 1740776099,
+            "total_keystrokes": 7230,
+            "wpm": 65.77,
+            "session_duration": 1319.09,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1284,
+                " ": 850,
+                "o": 416,
+                "e": 386,
+                "t": 379
+            }
+        },
+        {
+            "timestamp": 1740776106,
+            "total_keystrokes": 7260,
+            "wpm": 65.7,
+            "session_duration": 1326.0,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1299,
+                " ": 850,
+                "o": 416,
+                "e": 387,
+                "t": 379
+            }
+        },
+        {
+            "timestamp": 1740776111,
+            "total_keystrokes": 7290,
+            "wpm": 65.73,
+            "session_duration": 1330.87,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1310,
+                " ": 852,
+                "o": 416,
+                "e": 390,
+                "t": 379
+            }
+        },
+        {
+            "timestamp": 1740776116,
+            "total_keystrokes": 7320,
+            "wpm": 65.74,
+            "session_duration": 1336.09,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1310,
+                " ": 856,
+                "o": 417,
+                "e": 391,
+                "t": 380
+            }
+        },
+        {
+            "timestamp": 1740776121,
+            "total_keystrokes": 7350,
+            "wpm": 65.78,
+            "session_duration": 1340.86,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1312,
+                " ": 859,
+                "o": 420,
+                "e": 394,
+                "t": 384
+            }
+        },
+        {
+            "timestamp": 1740776128,
+            "total_keystrokes": 7380,
+            "wpm": 65.7,
+            "session_duration": 1347.9,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1317,
+                " ": 862,
+                "o": 421,
+                "e": 399,
+                "t": 385
+            }
+        },
+        {
+            "timestamp": 1740776135,
+            "total_keystrokes": 7410,
+            "wpm": 65.63,
+            "session_duration": 1354.89,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1324,
+                " ": 863,
+                "o": 422,
+                "e": 401,
+                "t": 385
+            }
+        },
+        {
+            "timestamp": 1740776143,
+            "total_keystrokes": 7440,
+            "wpm": 65.53,
+            "session_duration": 1362.41,
+            "avg_keystroke_time": 0.185,
+            "most_used_keys": {
+                "\u007f": 1328,
+                " ": 866,
+                "o": 424,
+                "e": 401,
+                "t": 387
+            }
+        },
+        {
+            "timestamp": 1740776146,
+            "total_keystrokes": 7470,
+            "wpm": 65.64,
+            "session_duration": 1365.56,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1328,
+                " ": 870,
+                "o": 428,
+                "e": 404,
+                "t": 389
+            }
+        },
+        {
+            "timestamp": 1740776149,
+            "total_keystrokes": 7500,
+            "wpm": 65.73,
+            "session_duration": 1369.32,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1330,
+                " ": 875,
+                "o": 432,
+                "e": 405,
+                "t": 393
+            }
+        },
+        {
+            "timestamp": 1740776154,
+            "total_keystrokes": 7530,
+            "wpm": 65.79,
+            "session_duration": 1373.49,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1336,
+                " ": 881,
+                "o": 432,
+                "e": 405,
+                "t": 397
+            }
+        },
+        {
+            "timestamp": 1740776157,
+            "total_keystrokes": 7560,
+            "wpm": 65.91,
+            "session_duration": 1376.47,
+            "avg_keystroke_time": 0.184,
+            "most_used_keys": {
+                "\u007f": 1340,
+                " ": 885,
+                "o": 435,
+                "e": 408,
+                "t": 399
+            }
+        },
+        {
+            "timestamp": 1740776161,
+            "total_keystrokes": 7590,
+            "wpm": 65.96,
+            "session_duration": 1380.88,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1343,
+                " ": 890,
+                "o": 435,
+                "e": 412,
+                "t": 401
+            }
+        },
+        {
+            "timestamp": 1740776164,
+            "total_keystrokes": 7620,
+            "wpm": 66.06,
+            "session_duration": 1384.27,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1351,
+                " ": 892,
+                "o": 435,
+                "e": 417,
+                "t": 402
+            }
+        },
+        {
+            "timestamp": 1740776167,
+            "total_keystrokes": 7650,
+            "wpm": 66.18,
+            "session_duration": 1387.16,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1356,
+                " ": 897,
+                "o": 436,
+                "e": 418,
+                "t": 403
+            }
+        },
+        {
+            "timestamp": 1740776171,
+            "total_keystrokes": 7680,
+            "wpm": 66.27,
+            "session_duration": 1390.64,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1361,
+                " ": 901,
+                "o": 438,
+                "e": 420,
+                "t": 406
+            }
+        },
+        {
+            "timestamp": 1740776177,
+            "total_keystrokes": 7710,
+            "wpm": 66.24,
+            "session_duration": 1396.72,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1365,
+                " ": 906,
+                "o": 440,
+                "e": 421,
+                "t": 409
+            }
+        },
+        {
+            "timestamp": 1740776181,
+            "total_keystrokes": 7740,
+            "wpm": 66.31,
+            "session_duration": 1400.65,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1366,
+                " ": 913,
+                "o": 441,
+                "e": 423,
+                "t": 410
+            }
+        },
+        {
+            "timestamp": 1740776193,
+            "total_keystrokes": 7770,
+            "wpm": 66.32,
+            "session_duration": 1406.01,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1369,
+                " ": 914,
+                "o": 443,
+                "e": 424,
+                "t": 411
+            }
+        },
+        {
+            "timestamp": 1740776200,
+            "total_keystrokes": 7800,
+            "wpm": 66.23,
+            "session_duration": 1413.25,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1374,
+                " ": 919,
+                "o": 445,
+                "e": 426,
+                "t": 411
+            }
+        },
+        {
+            "timestamp": 1740776211,
+            "total_keystrokes": 7830,
+            "wpm": 66.27,
+            "session_duration": 1417.73,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1381,
+                " ": 923,
+                "o": 448,
+                "e": 428,
+                "t": 413
+            }
+        },
+        {
+            "timestamp": 1740776216,
+            "total_keystrokes": 7860,
+            "wpm": 66.3,
+            "session_duration": 1422.72,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 1391,
+                " ": 927,
+                "o": 449,
+                "e": 430,
+                "t": 415
+            }
+        },
+        {
+            "timestamp": 1740776220,
+            "total_keystrokes": 7890,
+            "wpm": 66.37,
+            "session_duration": 1426.53,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1401,
+                " ": 930,
+                "o": 452,
+                "e": 430,
+                "t": 415
+            }
+        },
+        {
+            "timestamp": 1740776227,
+            "total_keystrokes": 7920,
+            "wpm": 66.32,
+            "session_duration": 1433.12,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1407,
+                " ": 933,
+                "o": 453,
+                "e": 430,
+                "t": 416
+            }
+        },
+        {
+            "timestamp": 1740776232,
+            "total_keystrokes": 7950,
+            "wpm": 66.33,
+            "session_duration": 1438.16,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1410,
+                " ": 937,
+                "o": 456,
+                "e": 430,
+                "t": 416
+            }
+        },
+        {
+            "timestamp": 1740776236,
+            "total_keystrokes": 7980,
+            "wpm": 66.41,
+            "session_duration": 1442.01,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1410,
+                " ": 943,
+                "o": 460,
+                "e": 434,
+                "t": 418
+            }
+        },
+        {
+            "timestamp": 1740776240,
+            "total_keystrokes": 8010,
+            "wpm": 66.45,
+            "session_duration": 1446.5,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1416,
+                " ": 946,
+                "o": 461,
+                "e": 437,
+                "t": 418
+            }
+        },
+        {
+            "timestamp": 1740776243,
+            "total_keystrokes": 8040,
+            "wpm": 66.56,
+            "session_duration": 1449.41,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1418,
+                " ": 952,
+                "o": 462,
+                "e": 441,
+                "t": 420
+            }
+        },
+        {
+            "timestamp": 1740776248,
+            "total_keystrokes": 8070,
+            "wpm": 66.61,
+            "session_duration": 1453.89,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1424,
+                " ": 957,
+                "o": 463,
+                "e": 443,
+                "t": 422
+            }
+        },
+        {
+            "timestamp": 1740776272,
+            "total_keystrokes": 8100,
+            "wpm": 66.69,
+            "session_duration": 1457.4,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1429,
+                " ": 959,
+                "o": 464,
+                "e": 444,
+                "t": 426
+            }
+        },
+        {
+            "timestamp": 1740776304,
+            "total_keystrokes": 8130,
+            "wpm": 66.61,
+            "session_duration": 1464.66,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1433,
+                " ": 963,
+                "o": 466,
+                "e": 447,
+                "t": 426
+            }
+        },
+        {
+            "timestamp": 1740776308,
+            "total_keystrokes": 8160,
+            "wpm": 66.69,
+            "session_duration": 1468.35,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1438,
+                " ": 966,
+                "o": 468,
+                "e": 450,
+                "t": 431
+            }
+        },
+        {
+            "timestamp": 1740776312,
+            "total_keystrokes": 8190,
+            "wpm": 66.75,
+            "session_duration": 1472.41,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1443,
+                " ": 969,
+                "o": 470,
+                "e": 452,
+                "t": 432
+            }
+        },
+        {
+            "timestamp": 1740776315,
+            "total_keystrokes": 8220,
+            "wpm": 66.85,
+            "session_duration": 1475.59,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1445,
+                " ": 972,
+                "o": 471,
+                "e": 458,
+                "t": 433
+            }
+        },
+        {
+            "timestamp": 1740776324,
+            "total_keystrokes": 8250,
+            "wpm": 66.66,
+            "session_duration": 1485.11,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1453,
+                " ": 976,
+                "o": 474,
+                "e": 460,
+                "t": 433
+            }
+        },
+        {
+            "timestamp": 1740776331,
+            "total_keystrokes": 8280,
+            "wpm": 66.61,
+            "session_duration": 1491.64,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1463,
+                " ": 976,
+                "o": 475,
+                "e": 462,
+                "t": 433
+            }
+        },
+        {
+            "timestamp": 1740776337,
+            "total_keystrokes": 8310,
+            "wpm": 66.59,
+            "session_duration": 1497.59,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1467,
+                " ": 978,
+                "o": 478,
+                "e": 462,
+                "t": 434
+            }
+        },
+        {
+            "timestamp": 1740776341,
+            "total_keystrokes": 8340,
+            "wpm": 66.64,
+            "session_duration": 1501.85,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 1471,
+                " ": 982,
+                "o": 479,
+                "e": 464,
+                "t": 435
+            }
+        },
+        {
+            "timestamp": 1740776345,
+            "total_keystrokes": 8370,
+            "wpm": 66.73,
+            "session_duration": 1505.27,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1475,
+                " ": 987,
+                "o": 481,
+                "e": 466,
+                "t": 438
+            }
+        },
+        {
+            "timestamp": 1740776350,
+            "total_keystrokes": 8400,
+            "wpm": 66.73,
+            "session_duration": 1510.66,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1481,
+                " ": 991,
+                "o": 484,
+                "e": 467,
+                "t": 440
+            }
+        },
+        {
+            "timestamp": 1740776354,
+            "total_keystrokes": 8430,
+            "wpm": 66.78,
+            "session_duration": 1514.94,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1486,
+                " ": 994,
+                "o": 487,
+                "e": 469,
+                "t": 441
+            }
+        },
+        {
+            "timestamp": 1740776359,
+            "total_keystrokes": 8460,
+            "wpm": 66.82,
+            "session_duration": 1519.32,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1487,
+                " ": 1001,
+                "o": 490,
+                "e": 472,
+                "t": 445
+            }
+        },
+        {
+            "timestamp": 1740776364,
+            "total_keystrokes": 8490,
+            "wpm": 66.81,
+            "session_duration": 1524.96,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1487,
+                " ": 1005,
+                "o": 494,
+                "e": 473,
+                "t": 445
+            }
+        },
+        {
+            "timestamp": 1740776367,
+            "total_keystrokes": 8520,
+            "wpm": 66.91,
+            "session_duration": 1528.04,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1497,
+                " ": 1009,
+                "o": 495,
+                "e": 474,
+                "t": 446
+            }
+        },
+        {
+            "timestamp": 1740776371,
+            "total_keystrokes": 8550,
+            "wpm": 66.98,
+            "session_duration": 1531.91,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1505,
+                " ": 1011,
+                "o": 496,
+                "e": 475,
+                "t": 450
+            }
+        },
+        {
+            "timestamp": 1740776374,
+            "total_keystrokes": 8580,
+            "wpm": 67.09,
+            "session_duration": 1534.74,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1512,
+                " ": 1016,
+                "o": 498,
+                "e": 477,
+                "t": 450
+            }
+        },
+        {
+            "timestamp": 1740776378,
+            "total_keystrokes": 8610,
+            "wpm": 67.17,
+            "session_duration": 1538.27,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1516,
+                " ": 1020,
+                "o": 500,
+                "e": 481,
+                "t": 450
+            }
+        },
+        {
+            "timestamp": 1740776385,
+            "total_keystrokes": 8640,
+            "wpm": 67.09,
+            "session_duration": 1545.29,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1519,
+                " ": 1025,
+                "o": 503,
+                "e": 482,
+                "t": 453
+            }
+        },
+        {
+            "timestamp": 1740776390,
+            "total_keystrokes": 8670,
+            "wpm": 67.11,
+            "session_duration": 1550.37,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1521,
+                " ": 1029,
+                "o": 504,
+                "e": 484,
+                "t": 456
+            }
+        },
+        {
+            "timestamp": 1740776394,
+            "total_keystrokes": 8700,
+            "wpm": 67.15,
+            "session_duration": 1554.79,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1525,
+                " ": 1034,
+                "o": 506,
+                "e": 485,
+                "t": 460
+            }
+        },
+        {
+            "timestamp": 1740776401,
+            "total_keystrokes": 8730,
+            "wpm": 67.07,
+            "session_duration": 1561.96,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1535,
+                " ": 1039,
+                "o": 506,
+                "e": 485,
+                "t": 461
+            }
+        },
+        {
+            "timestamp": 1740776406,
+            "total_keystrokes": 8760,
+            "wpm": 67.1,
+            "session_duration": 1566.56,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1537,
+                " ": 1044,
+                "o": 507,
+                "e": 486,
+                "t": 463
+            }
+        },
+        {
+            "timestamp": 1740776409,
+            "total_keystrokes": 8790,
+            "wpm": 67.2,
+            "session_duration": 1569.57,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1537,
+                " ": 1048,
+                "o": 510,
+                "e": 489,
+                "t": 465
+            }
+        },
+        {
+            "timestamp": 1740776413,
+            "total_keystrokes": 8820,
+            "wpm": 67.27,
+            "session_duration": 1573.34,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1544,
+                " ": 1053,
+                "o": 510,
+                "e": 489,
+                "t": 467
+            }
+        },
+        {
+            "timestamp": 1740776417,
+            "total_keystrokes": 8850,
+            "wpm": 67.33,
+            "session_duration": 1577.29,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1544,
+                " ": 1057,
+                "o": 512,
+                "e": 490,
+                "t": 474
+            }
+        },
+        {
+            "timestamp": 1740776422,
+            "total_keystrokes": 8880,
+            "wpm": 67.32,
+            "session_duration": 1582.81,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1548,
+                " ": 1060,
+                "o": 515,
+                "e": 490,
+                "t": 475
+            }
+        },
+        {
+            "timestamp": 1740776491,
+            "total_keystrokes": 8910,
+            "wpm": 67.22,
+            "session_duration": 1590.59,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1552,
+                " ": 1062,
+                "o": 516,
+                "e": 490,
+                "t": 476
+            }
+        },
+        {
+            "timestamp": 1740776496,
+            "total_keystrokes": 8940,
+            "wpm": 67.26,
+            "session_duration": 1595.0,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1555,
+                " ": 1066,
+                "o": 518,
+                "e": 491,
+                "t": 478
+            }
+        },
+        {
+            "timestamp": 1740776499,
+            "total_keystrokes": 8970,
+            "wpm": 67.36,
+            "session_duration": 1597.87,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1558,
+                " ": 1070,
+                "o": 518,
+                "e": 494,
+                "t": 481
+            }
+        },
+        {
+            "timestamp": 1740776502,
+            "total_keystrokes": 9000,
+            "wpm": 67.45,
+            "session_duration": 1601.16,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1585,
+                " ": 1070,
+                "o": 518,
+                "e": 494,
+                "t": 481
+            }
+        },
+        {
+            "timestamp": 1740776506,
+            "total_keystrokes": 9030,
+            "wpm": 67.5,
+            "session_duration": 1605.42,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1588,
+                " ": 1075,
+                "o": 518,
+                "e": 494,
+                "t": 484
+            }
+        },
+        {
+            "timestamp": 1740776511,
+            "total_keystrokes": 9060,
+            "wpm": 67.53,
+            "session_duration": 1609.99,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1588,
+                " ": 1081,
+                "o": 520,
+                "e": 495,
+                "t": 487
+            }
+        },
+        {
+            "timestamp": 1740776515,
+            "total_keystrokes": 9090,
+            "wpm": 67.59,
+            "session_duration": 1613.83,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1594,
+                " ": 1085,
+                "o": 523,
+                "e": 495,
+                "t": 489
+            }
+        },
+        {
+            "timestamp": 1740776520,
+            "total_keystrokes": 9120,
+            "wpm": 67.59,
+            "session_duration": 1619.08,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1601,
+                " ": 1090,
+                "o": 523,
+                "e": 496,
+                "t": 491
+            }
+        },
+        {
+            "timestamp": 1740776525,
+            "total_keystrokes": 9150,
+            "wpm": 67.58,
+            "session_duration": 1624.68,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1606,
+                " ": 1094,
+                "o": 523,
+                "e": 496,
+                "t": 491
+            }
+        },
+        {
+            "timestamp": 1740776531,
+            "total_keystrokes": 9180,
+            "wpm": 67.58,
+            "session_duration": 1630.03,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1626,
+                " ": 1095,
+                "o": 525,
+                "e": 496,
+                "t": 491
+            }
+        },
+        {
+            "timestamp": 1740776536,
+            "total_keystrokes": 9210,
+            "wpm": 67.6,
+            "session_duration": 1634.84,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1634,
+                " ": 1097,
+                "o": 525,
+                "e": 500,
+                "t": 492
+            }
+        },
+        {
+            "timestamp": 1740776539,
+            "total_keystrokes": 9240,
+            "wpm": 67.68,
+            "session_duration": 1638.26,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1639,
+                " ": 1103,
+                "o": 527,
+                "e": 504,
+                "t": 493
+            }
+        },
+        {
+            "timestamp": 1740776555,
+            "total_keystrokes": 9270,
+            "wpm": 67.58,
+            "session_duration": 1645.98,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1646,
+                " ": 1106,
+                "o": 527,
+                "e": 506,
+                "t": 495
+            }
+        },
+        {
+            "timestamp": 1740776559,
+            "total_keystrokes": 9300,
+            "wpm": 67.6,
+            "session_duration": 1650.79,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1652,
+                " ": 1110,
+                "o": 528,
+                "e": 508,
+                "t": 496
+            }
+        },
+        {
+            "timestamp": 1740776563,
+            "total_keystrokes": 9330,
+            "wpm": 67.7,
+            "session_duration": 1653.85,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1655,
+                " ": 1116,
+                "o": 529,
+                "e": 511,
+                "t": 501
+            }
+        },
+        {
+            "timestamp": 1740776566,
+            "total_keystrokes": 9360,
+            "wpm": 67.78,
+            "session_duration": 1657.24,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1662,
+                " ": 1120,
+                "o": 531,
+                "e": 515,
+                "t": 503
+            }
+        },
+        {
+            "timestamp": 1740776570,
+            "total_keystrokes": 9390,
+            "wpm": 67.83,
+            "session_duration": 1661.19,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1664,
+                " ": 1123,
+                "o": 535,
+                "e": 517,
+                "t": 504
+            }
+        },
+        {
+            "timestamp": 1740776574,
+            "total_keystrokes": 9420,
+            "wpm": 67.9,
+            "session_duration": 1664.88,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1671,
+                " ": 1128,
+                "o": 535,
+                "e": 518,
+                "t": 506
+            }
+        },
+        {
+            "timestamp": 1740776577,
+            "total_keystrokes": 9450,
+            "wpm": 67.98,
+            "session_duration": 1668.03,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1674,
+                " ": 1133,
+                "o": 537,
+                "e": 524,
+                "t": 507
+            }
+        },
+        {
+            "timestamp": 1740776581,
+            "total_keystrokes": 9480,
+            "wpm": 68.04,
+            "session_duration": 1671.91,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1678,
+                " ": 1137,
+                "o": 538,
+                "e": 531,
+                "t": 510
+            }
+        },
+        {
+            "timestamp": 1740776586,
+            "total_keystrokes": 9510,
+            "wpm": 68.04,
+            "session_duration": 1677.3,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1679,
+                " ": 1140,
+                "o": 540,
+                "e": 534,
+                "t": 510
+            }
+        },
+        {
+            "timestamp": 1740776591,
+            "total_keystrokes": 9540,
+            "wpm": 68.07,
+            "session_duration": 1681.84,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1687,
+                " ": 1144,
+                "o": 543,
+                "e": 535,
+                "t": 513
+            }
+        },
+        {
+            "timestamp": 1740776594,
+            "total_keystrokes": 9570,
+            "wpm": 68.13,
+            "session_duration": 1685.7,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1691,
+                " ": 1149,
+                "o": 543,
+                "e": 539,
+                "t": 517
+            }
+        },
+        {
+            "timestamp": 1740776598,
+            "total_keystrokes": 9600,
+            "wpm": 68.18,
+            "session_duration": 1689.68,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1691,
+                " ": 1155,
+                "o": 544,
+                "e": 541,
+                "t": 518
+            }
+        },
+        {
+            "timestamp": 1740776609,
+            "total_keystrokes": 9630,
+            "wpm": 67.98,
+            "session_duration": 1699.81,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1696,
+                " ": 1159,
+                "e": 545,
+                "o": 545,
+                "t": 520
+            }
+        },
+        {
+            "timestamp": 1740776611,
+            "total_keystrokes": 9660,
+            "wpm": 68.08,
+            "session_duration": 1702.66,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1700,
+                " ": 1164,
+                "e": 549,
+                "o": 545,
+                "t": 523
+            }
+        },
+        {
+            "timestamp": 1740776615,
+            "total_keystrokes": 9690,
+            "wpm": 68.15,
+            "session_duration": 1706.26,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1709,
+                " ": 1167,
+                "e": 555,
+                "o": 545,
+                "t": 526
+            }
+        },
+        {
+            "timestamp": 1740776620,
+            "total_keystrokes": 9720,
+            "wpm": 68.17,
+            "session_duration": 1710.98,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1719,
+                " ": 1169,
+                "e": 557,
+                "o": 547,
+                "t": 528
+            }
+        },
+        {
+            "timestamp": 1740776624,
+            "total_keystrokes": 9750,
+            "wpm": 68.2,
+            "session_duration": 1715.46,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1721,
+                " ": 1173,
+                "e": 561,
+                "o": 549,
+                "t": 530
+            }
+        },
+        {
+            "timestamp": 1740776628,
+            "total_keystrokes": 9780,
+            "wpm": 68.27,
+            "session_duration": 1718.94,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1723,
+                " ": 1179,
+                "e": 561,
+                "o": 552,
+                "t": 532
+            }
+        },
+        {
+            "timestamp": 1740776631,
+            "total_keystrokes": 9810,
+            "wpm": 68.34,
+            "session_duration": 1722.53,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1729,
+                " ": 1184,
+                "e": 565,
+                "o": 552,
+                "t": 534
+            }
+        },
+        {
+            "timestamp": 1740776635,
+            "total_keystrokes": 9840,
+            "wpm": 68.39,
+            "session_duration": 1726.61,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1737,
+                " ": 1188,
+                "e": 567,
+                "o": 552,
+                "t": 538
+            }
+        },
+        {
+            "timestamp": 1740776640,
+            "total_keystrokes": 9870,
+            "wpm": 68.43,
+            "session_duration": 1730.87,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1741,
+                " ": 1192,
+                "e": 571,
+                "o": 552,
+                "t": 539
+            }
+        },
+        {
+            "timestamp": 1740776644,
+            "total_keystrokes": 9900,
+            "wpm": 68.47,
+            "session_duration": 1735.14,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1741,
+                " ": 1197,
+                "e": 572,
+                "o": 554,
+                "t": 540
+            }
+        },
+        {
+            "timestamp": 1740776647,
+            "total_keystrokes": 9930,
+            "wpm": 68.53,
+            "session_duration": 1738.75,
+            "avg_keystroke_time": 0.176,
+            "most_used_keys": {
+                "\u007f": 1756,
+                " ": 1200,
+                "e": 573,
+                "o": 554,
+                "t": 543
+            }
+        },
+        {
+            "timestamp": 1740776733,
+            "total_keystrokes": 9960,
+            "wpm": 68.3,
+            "session_duration": 1749.9,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1765,
+                " ": 1202,
+                "e": 575,
+                "o": 554,
+                "t": 546
+            }
+        },
+        {
+            "timestamp": 1740776801,
+            "total_keystrokes": 9990,
+            "wpm": 68.12,
+            "session_duration": 1759.86,
+            "avg_keystroke_time": 0.177,
+            "most_used_keys": {
+                "\u007f": 1773,
+                " ": 1204,
+                "e": 578,
+                "o": 554,
+                "t": 547
+            }
+        },
+        {
+            "timestamp": 1740776807,
+            "total_keystrokes": 10020,
+            "wpm": 68.09,
+            "session_duration": 1765.91,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1783,
+                " ": 1207,
+                "e": 580,
+                "o": 555,
+                "t": 548
+            }
+        },
+        {
+            "timestamp": 1740776815,
+            "total_keystrokes": 10050,
+            "wpm": 67.98,
+            "session_duration": 1774.0,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1788,
+                " ": 1211,
+                "e": 583,
+                "o": 556,
+                "t": 552
+            }
+        },
+        {
+            "timestamp": 1740776820,
+            "total_keystrokes": 10080,
+            "wpm": 67.97,
+            "session_duration": 1779.59,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1788,
+                " ": 1216,
+                "e": 587,
+                "o": 556,
+                "t": 553
+            }
+        },
+        {
+            "timestamp": 1740776829,
+            "total_keystrokes": 10110,
+            "wpm": 67.83,
+            "session_duration": 1788.52,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1791,
+                " ": 1220,
+                "e": 587,
+                "o": 556,
+                "t": 555
+            }
+        },
+        {
+            "timestamp": 1740776838,
+            "total_keystrokes": 10140,
+            "wpm": 67.72,
+            "session_duration": 1796.74,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1797,
+                " ": 1223,
+                "e": 588,
+                "o": 559,
+                "t": 558
+            }
+        },
+        {
+            "timestamp": 1740776842,
+            "total_keystrokes": 10170,
+            "wpm": 67.76,
+            "session_duration": 1800.95,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1802,
+                " ": 1227,
+                "e": 592,
+                "t": 561,
+                "o": 560
+            }
+        },
+        {
+            "timestamp": 1740776845,
+            "total_keystrokes": 10200,
+            "wpm": 67.84,
+            "session_duration": 1804.34,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1810,
+                " ": 1232,
+                "e": 594,
+                "o": 562,
+                "t": 562
+            }
+        },
+        {
+            "timestamp": 1740776849,
+            "total_keystrokes": 10230,
+            "wpm": 67.9,
+            "session_duration": 1807.94,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1811,
+                " ": 1235,
+                "e": 597,
+                "t": 564,
+                "o": 563
+            }
+        },
+        {
+            "timestamp": 1740776853,
+            "total_keystrokes": 10260,
+            "wpm": 67.93,
+            "session_duration": 1812.4,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1817,
+                " ": 1237,
+                "e": 598,
+                "o": 566,
+                "t": 565
+            }
+        },
+        {
+            "timestamp": 1740776857,
+            "total_keystrokes": 10290,
+            "wpm": 68.0,
+            "session_duration": 1815.8,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1826,
+                " ": 1242,
+                "e": 598,
+                "o": 568,
+                "t": 567
+            }
+        },
+        {
+            "timestamp": 1740776864,
+            "total_keystrokes": 10320,
+            "wpm": 67.91,
+            "session_duration": 1823.7,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1831,
+                " ": 1246,
+                "e": 601,
+                "o": 570,
+                "t": 567
+            }
+        },
+        {
+            "timestamp": 1740776872,
+            "total_keystrokes": 10350,
+            "wpm": 67.84,
+            "session_duration": 1830.84,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1841,
+                " ": 1250,
+                "e": 603,
+                "o": 571,
+                "t": 570
+            }
+        },
+        {
+            "timestamp": 1740776876,
+            "total_keystrokes": 10380,
+            "wpm": 67.86,
+            "session_duration": 1835.44,
+            "avg_keystroke_time": 0.178,
+            "most_used_keys": {
+                "\u007f": 1841,
+                " ": 1255,
+                "e": 605,
+                "o": 573,
+                "t": 572
+            }
+        },
+        {
+            "timestamp": 1740776887,
+            "total_keystrokes": 10410,
+            "wpm": 67.67,
+            "session_duration": 1845.93,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1846,
+                " ": 1256,
+                "e": 610,
+                "o": 574,
+                "t": 573
+            }
+        },
+        {
+            "timestamp": 1740776893,
+            "total_keystrokes": 10440,
+            "wpm": 67.64,
+            "session_duration": 1852.17,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1861,
+                " ": 1256,
+                "e": 610,
+                "o": 574,
+                "t": 574
+            }
+        },
+        {
+            "timestamp": 1740776901,
+            "total_keystrokes": 10470,
+            "wpm": 67.54,
+            "session_duration": 1860.25,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1862,
+                " ": 1256,
+                "e": 610,
+                "o": 574,
+                "t": 574
+            }
+        },
+        {
+            "timestamp": 1740776910,
+            "total_keystrokes": 10500,
+            "wpm": 67.41,
+            "session_duration": 1869.27,
+            "avg_keystroke_time": 0.179,
+            "most_used_keys": {
+                "\u007f": 1867,
+                " ": 1256,
+                "e": 610,
+                "t": 575,
+                "o": 574
+            }
+        },
+        {
+            "timestamp": 1740776919,
+            "total_keystrokes": 10530,
+            "wpm": 67.28,
+            "session_duration": 1878.15,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1867,
+                " ": 1259,
+                "e": 612,
+                "t": 576,
+                "o": 575
+            }
+        },
+        {
+            "timestamp": 1740776930,
+            "total_keystrokes": 10560,
+            "wpm": 67.09,
+            "session_duration": 1888.75,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1872,
+                " ": 1259,
+                "e": 612,
+                "t": 576,
+                "o": 575
+            }
+        },
+        {
+            "timestamp": 1740776934,
+            "total_keystrokes": 10590,
+            "wpm": 67.14,
+            "session_duration": 1892.83,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1877,
+                " ": 1259,
+                "e": 615,
+                "t": 579,
+                "o": 576
+            }
+        },
+        {
+            "timestamp": 1740776938,
+            "total_keystrokes": 10620,
+            "wpm": 67.18,
+            "session_duration": 1896.98,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1878,
+                " ": 1265,
+                "e": 619,
+                "t": 582,
+                "o": 578
+            }
+        },
+        {
+            "timestamp": 1740776941,
+            "total_keystrokes": 10650,
+            "wpm": 67.26,
+            "session_duration": 1900.19,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1884,
+                " ": 1271,
+                "e": 620,
+                "t": 583,
+                "o": 582
+            }
+        },
+        {
+            "timestamp": 1740776950,
+            "total_keystrokes": 10680,
+            "wpm": 67.12,
+            "session_duration": 1909.5,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1888,
+                " ": 1274,
+                "e": 623,
+                "t": 584,
+                "o": 583
+            }
+        },
+        {
+            "timestamp": 1740776960,
+            "total_keystrokes": 10710,
+            "wpm": 66.98,
+            "session_duration": 1918.79,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1891,
+                " ": 1280,
+                "e": 625,
+                "t": 586,
+                "o": 585
+            }
+        },
+        {
+            "timestamp": 1740776965,
+            "total_keystrokes": 10740,
+            "wpm": 66.98,
+            "session_duration": 1924.25,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1898,
+                " ": 1283,
+                "e": 630,
+                "t": 588,
+                "o": 585
+            }
+        },
+        {
+            "timestamp": 1740777203,
+            "total_keystrokes": 10770,
+            "wpm": 66.86,
+            "session_duration": 1932.88,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1900,
+                " ": 1287,
+                "e": 631,
+                "t": 589,
+                "o": 588
+            }
+        },
+        {
+            "timestamp": 1740777207,
+            "total_keystrokes": 10800,
+            "wpm": 66.91,
+            "session_duration": 1937.01,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1906,
+                " ": 1291,
+                "e": 634,
+                "o": 590,
+                "t": 590
+            }
+        },
+        {
+            "timestamp": 1740777248,
+            "total_keystrokes": 10830,
+            "wpm": 66.87,
+            "session_duration": 1943.41,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1911,
+                " ": 1291,
+                "e": 638,
+                "o": 592,
+                "t": 592
+            }
+        },
+        {
+            "timestamp": 1740777393,
+            "total_keystrokes": 10860,
+            "wpm": 66.71,
+            "session_duration": 1953.52,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1916,
+                " ": 1291,
+                "e": 641,
+                "t": 597,
+                "o": 595
+            }
+        },
+        {
+            "timestamp": 1740777399,
+            "total_keystrokes": 10890,
+            "wpm": 66.68,
+            "session_duration": 1959.73,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1925,
+                " ": 1291,
+                "e": 641,
+                "o": 599,
+                "t": 597
+            }
+        },
+        {
+            "timestamp": 1740792546,
+            "total_keystrokes": 10920,
+            "wpm": 66.68,
+            "session_duration": 1965.28,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1928,
+                " ": 1291,
+                "e": 642,
+                "t": 602,
+                "o": 599
+            }
+        },
+        {
+            "timestamp": 1740792549,
+            "total_keystrokes": 10950,
+            "wpm": 66.75,
+            "session_duration": 1968.55,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1933,
+                " ": 1299,
+                "e": 643,
+                "t": 604,
+                "o": 601
+            }
+        },
+        {
+            "timestamp": 1740792564,
+            "total_keystrokes": 10980,
+            "wpm": 66.75,
+            "session_duration": 1973.93,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1933,
+                " ": 1302,
+                "e": 645,
+                "t": 607,
+                "o": 602
+            }
+        },
+        {
+            "timestamp": 1740792577,
+            "total_keystrokes": 11010,
+            "wpm": 66.78,
+            "session_duration": 1978.29,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1937,
+                " ": 1305,
+                "e": 645,
+                "t": 608,
+                "o": 604
+            }
+        },
+        {
+            "timestamp": 1740792588,
+            "total_keystrokes": 11040,
+            "wpm": 66.8,
+            "session_duration": 1983.16,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1937,
+                " ": 1308,
+                "e": 648,
+                "t": 609,
+                "o": 605
+            }
+        },
+        {
+            "timestamp": 1740792591,
+            "total_keystrokes": 11070,
+            "wpm": 66.87,
+            "session_duration": 1986.65,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1943,
+                " ": 1310,
+                "e": 649,
+                "t": 609,
+                "o": 607
+            }
+        },
+        {
+            "timestamp": 1740792595,
+            "total_keystrokes": 11100,
+            "wpm": 66.91,
+            "session_duration": 1990.7,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1945,
+                " ": 1311,
+                "e": 651,
+                "t": 609,
+                "o": 608
+            }
+        },
+        {
+            "timestamp": 1740792607,
+            "total_keystrokes": 11130,
+            "wpm": 66.89,
+            "session_duration": 1996.69,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1947,
+                " ": 1313,
+                "e": 653,
+                "o": 612,
+                "t": 610
+            }
+        },
+        {
+            "timestamp": 1740792657,
+            "total_keystrokes": 11160,
+            "wpm": 66.93,
+            "session_duration": 2001.04,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1953,
+                " ": 1318,
+                "e": 653,
+                "o": 613,
+                "t": 612
+            }
+        },
+        {
+            "timestamp": 1740792677,
+            "total_keystrokes": 11190,
+            "wpm": 66.97,
+            "session_duration": 2004.94,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1954,
+                " ": 1324,
+                "e": 655,
+                "o": 615,
+                "t": 613
+            }
+        },
+        {
+            "timestamp": 1740792681,
+            "total_keystrokes": 11220,
+            "wpm": 67.03,
+            "session_duration": 2008.71,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1961,
+                " ": 1327,
+                "e": 659,
+                "o": 615,
+                "t": 614
+            }
+        },
+        {
+            "timestamp": 1740792720,
+            "total_keystrokes": 11250,
+            "wpm": 66.95,
+            "session_duration": 2016.32,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1965,
+                " ": 1331,
+                "e": 661,
+                "t": 619,
+                "o": 617
+            }
+        },
+        {
+            "timestamp": 1740792737,
+            "total_keystrokes": 11280,
+            "wpm": 66.86,
+            "session_duration": 2024.47,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1966,
+                " ": 1336,
+                "e": 663,
+                "t": 621,
+                "o": 618
+            }
+        },
+        {
+            "timestamp": 1740792740,
+            "total_keystrokes": 11310,
+            "wpm": 66.93,
+            "session_duration": 2027.75,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1968,
+                " ": 1342,
+                "e": 664,
+                "t": 624,
+                "o": 620
+            }
+        },
+        {
+            "timestamp": 1740792744,
+            "total_keystrokes": 11340,
+            "wpm": 66.99,
+            "session_duration": 2031.28,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1970,
+                " ": 1347,
+                "e": 667,
+                "t": 629,
+                "o": 622
+            }
+        },
+        {
+            "timestamp": 1740792757,
+            "total_keystrokes": 11370,
+            "wpm": 67.04,
+            "session_duration": 2035.16,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1970,
+                " ": 1350,
+                "e": 670,
+                "t": 630,
+                "o": 625
+            }
+        },
+        {
+            "timestamp": 1740792771,
+            "total_keystrokes": 11400,
+            "wpm": 67.08,
+            "session_duration": 2039.4,
+            "avg_keystroke_time": 0.18,
+            "most_used_keys": {
+                "\u007f": 1977,
+                " ": 1353,
+                "e": 671,
+                "t": 634,
+                "o": 626
+            }
+        },
+        {
+            "timestamp": 1740792782,
+            "total_keystrokes": 11430,
+            "wpm": 66.9,
+            "session_duration": 2050.34,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1977,
+                " ": 1357,
+                "e": 673,
+                "t": 636,
+                "o": 628
+            }
+        },
+        {
+            "timestamp": 1740792795,
+            "total_keystrokes": 11460,
+            "wpm": 66.96,
+            "session_duration": 2053.9,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1985,
+                " ": 1361,
+                "e": 676,
+                "t": 638,
+                "o": 632
+            }
+        },
+        {
+            "timestamp": 1740792804,
+            "total_keystrokes": 11490,
+            "wpm": 66.84,
+            "session_duration": 2062.81,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1992,
+                " ": 1366,
+                "e": 677,
+                "t": 640,
+                "o": 633
+            }
+        },
+        {
+            "timestamp": 1740792806,
+            "total_keystrokes": 11520,
+            "wpm": 66.92,
+            "session_duration": 2065.6,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1992,
+                " ": 1372,
+                "e": 680,
+                "t": 641,
+                "o": 636
+            }
+        },
+        {
+            "timestamp": 1740792821,
+            "total_keystrokes": 11550,
+            "wpm": 66.95,
+            "session_duration": 2070.16,
+            "avg_keystroke_time": 0.181,
+            "most_used_keys": {
+                "\u007f": 1997,
+                " ": 1374,
+                "e": 682,
+                "t": 643,
+                "o": 638
+            }
+        },
+        {
+            "timestamp": 1740792856,
+            "total_keystrokes": 11580,
+            "wpm": 66.65,
+            "session_duration": 2084.82,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 2003,
+                " ": 1377,
+                "e": 683,
+                "t": 643,
+                "o": 639
+            }
+        },
+        {
+            "timestamp": 1740792864,
+            "total_keystrokes": 11610,
+            "wpm": 66.58,
+            "session_duration": 2092.42,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 2006,
+                " ": 1378,
+                "e": 686,
+                "t": 643,
+                "o": 639
+            }
+        },
+        {
+            "timestamp": 1740792874,
+            "total_keystrokes": 11640,
+            "wpm": 66.42,
+            "session_duration": 2102.9,
+            "avg_keystroke_time": 0.182,
+            "most_used_keys": {
+                "\u007f": 2009,
+                " ": 1378,
+                "e": 687,
+                "t": 644,
+                "o": 640
+            }
+        },
+        {
+            "timestamp": 1740792887,
+            "total_keystrokes": 11670,
+            "wpm": 66.18,
+            "session_duration": 2115.97,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 2017,
+                " ": 1378,
+                "e": 687,
+                "t": 644,
+                "o": 642
+            }
+        },
+        {
+            "timestamp": 1740792900,
+            "total_keystrokes": 11700,
+            "wpm": 65.95,
+            "session_duration": 2128.97,
+            "avg_keystroke_time": 0.183,
+            "most_used_keys": {
+                "\u007f": 2023,
+                " ": 1379,
+                "e": 687,
+                "o": 644,
+                "t": 644
+            }
+        }
+    ]
+}

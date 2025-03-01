@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: monkeylogs
+Version: 0.1
+Requires-Dist: flask
+Requires-Dist: gunicorn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: click
+Dynamic: requires-dist

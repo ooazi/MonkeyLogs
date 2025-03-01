@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <title>monkeylogs - typing stats</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script>
+        let allSessions = [];
+    
+        async function loadStats() {
+            try {
+                const response = await fetch('/api/stats');
+                const data = await response.json();
+    
+                // Update Header Stats
+                document.getElementById("header-wpm").innerText = data.averages.avg_wpm;
+                document.getElementById("header-session").innerText = data.averages.avg_session_duration;
+    
+                // Store full session data
+                allSessions = data.sessions;
+    
+                // Render only top 5 recent entries
+                renderSessions(false);
+    
+                // Show "Show All" button if more than 5 sessions exist
+                const showAllBtn = document.getElementById("show-all");
+                if (allSessions.length > 5) {
+                    showAllBtn.classList.remove("hidden");
+                } else {
+                    showAllBtn.classList.add("hidden");
+                }
+            } catch (error) {
+                console.error("Error fetching stats:", error);
+                document.getElementById("error-message").innerText = "Failed to load typing stats.";
+            }
+        }
+    
+        function renderSessions(showAll) {
+            const sessionsTable = document.getElementById("sessions-table");
+            sessionsTable.innerHTML = ""; // Clear old data
+    
+            const sessionsToShow = showAll ? allSessions : allSessions.slice(0, 5);
+    
+            sessionsToShow.forEach(session => {
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                    <td>${new Date(session.timestamp * 1000).toLocaleString()}</td>
+                    <td>${session.wpm}</td>
+                    <td>${session.session_duration} sec</td>
+                `;
+                sessionsTable.appendChild(row);
+            });
+        }
+    
+        document.addEventListener("DOMContentLoaded", function () {
+    loadStats();
+
+    // Ensure the button exists before adding the event listener
+    const showAllBtn = document.getElementById("show-all");
+    if (showAllBtn) {
+        showAllBtn.addEventListener("click", function () {
+            renderSessions(true);
+            this.classList.add("hidden"); // Hide button after expanding
+        });
+    }
+});
+    
+        document.addEventListener("DOMContentLoaded", loadStats);
+    </script>
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="{{ url_for('static', filename='monkeylogs_logo.png') }}" alt="MonkeyLogs Logo" class="logo">
+            <h1 class="logo-text">monkeylogs</h1>
+        </div>
+        <div class="header-stats">
+            <div class="stat-box">
+                <p>📈 avg wpm</p>
+                <span id="header-wpm">loading...</span>
+            </div>
+            <div class="stat-box">
+                <p>⏳ avg session duration</p>
+                <span id="header-session">loading...</span> sec
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <h2>graphs</h2>
+        <div class="graph-container">
+            <img src="{{ url_for('static', filename='graphs/wpm_trend.png') }}" alt="WPM Trend" style="width: 55vw; min-width: 330px;">
+            <img src="{{ url_for('static', filename='graphs/session_duration_vs_wpm.png') }}" alt="Session Duration vs. WPM" style="width: 55vw; min-width: 330px;">
+        </div>
+
+        <h2>session history</h2>
+<table>
+    <thead>
+        <tr>
+            <th>timestamp</th>
+            <th>wpm</th>
+            <th>session duration</th>
+        </tr>
+    </thead>
+    <tbody id="sessions-table">
+        <tr><td colspan="3">loading...</td></tr>
+    </tbody>
+</table>
+
+<button id="show-all" class="hidden">show all</button>
+
+        <p id="error-message" class="error"></p>
+    </div>
+</body>
+</html>
